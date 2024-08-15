@@ -45,7 +45,7 @@ https://www.berkshireinsuranceservices.com/arecombinedsinglelimitsbetter
 - auto_model: The model of the vehicle. 
 - auto_year: The year of manufacture of the vehicle. 
 
--fraud_reported:  Y or N(Target Label)
+- fraud_reported:  Y or N(Target Label)
 Whether the claim is fraudulent or not.
 
 
