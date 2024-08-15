@@ -3,7 +3,7 @@ Problem Statement
 To build a classification methodology to determine whether a customer is placing a fraudulent insurance claim.
 
 # Data Description
-The client will send data in multiple sets of files in batches at a given location. The data has been extracted from the census bureau. 
+The client will send data in multiple sets of files in batches at a given location. 
 The data contains the following attributes:
 Features:
 - months_as_customer: It denotes the number of months for which the customer is associated with the insurance company.
