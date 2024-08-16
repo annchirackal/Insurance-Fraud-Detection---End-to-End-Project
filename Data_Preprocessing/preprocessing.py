@@ -3,6 +3,7 @@ import numpy as np
 from feature_engine.imputation import CategoricalImputer
 from sklearn.preprocessing import StandardScaler
 from imblearn.over_sampling import RandomOverSampler
+from constants import constants
 class Preprocessor:
     """
     This class shall be used to clean and transform the data before training.
@@ -14,6 +15,7 @@ class Preprocessor:
     def __init__(self, file_object, logger_object):
         self.file_object = file_object
         self.logger_object = logger_object
+        
 
     def read_data(self, input_data_path):
         """
@@ -273,3 +275,36 @@ class Preprocessor:
             self.logger_object.log(self.file_object,
                                 'Dataset balancing failed. Exited the handle_imbalanced_dataset method of the Preprocessor class')
             raise Exception()
+    def preprocess_data(self,input_file_path):
+        """
+        Method Name: preprocess_data
+        Description: This excecutes all the preprcessing steps.
+        Args: input_file_path : path to input raw data 
+        Output: Returns the cleaned and transformed independent columns in dataframe X. This is 
+        ready to input to nay model for training
+        Returns cleaned and transformed label column in dataframe y .
+        On Failure: Raise Exception
+        """
+        self.logger_object.log(self.file_object,
+                                'Entered the preprocess_data Method of the Preprocessor class ')
+        try:
+            df = self.read_data(input_file_path)
+            df=self.remove_unwanted_spaces_and_characters(data=df)
+            df=self.remove_columns(data=df,columns=constants.columns_to_drop)
+            is_null_value_present,null_value_columns= self.is_null_present(data=df)
+            if is_null_value_present:
+                df= self.impute_missing_values(data=df, cols_with_missing_values=null_value_columns)
+            df=self.scale_numerical_columns(data=df)
+            df=self.encode_categorical_columns(data=df)
+            X,y=self.separate_label_feature(data=df, label_column_name=constants.label_column_name)
+            self.X,self.y=self.handle_imbalanced_dataset(X,y)
+            self.logger_object.log(self.file_object,f'Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape {self.X.shape} and layes in y with shape {y.shape}')
+            return self.X,self.y
+        except Exception as e:
+            self.logger_object.log(self.file_object,
+                                'Exception in preprocess_data')
+            self.logger_object.log(self.file_object,
+                                'Method failed. Exited the preprocess_data method in Preprocessor Class')
+            raise Exception()
+
+
