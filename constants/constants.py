@@ -19,3 +19,5 @@ columns_to_drop =['policy_number','policy_bind_date','policy_state','insured_zip
                   'incident_date','incident_state','incident_city','insured_hobbies','auto_make',
                   'auto_model','auto_year','age','total_claim_amount']
 label_column_name='fraud_reported'
+path_to_save_training_data=path = "Insurance-Fraud-Detection---End-to-End-Project/Data/sample_data_used_for_train.csv"
+filename="Insutance_Fraud_Detection_Model"

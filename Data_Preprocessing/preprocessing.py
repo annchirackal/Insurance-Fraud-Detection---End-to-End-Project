@@ -48,6 +48,7 @@ class Preprocessor:
         self.data = data
         try:
             self.data=self.data.replace('?',np.nan)
+            self.data=self.data.replace('nan',np.nan)
             self.logger_object.log(self.file_object,
                                    'Replaced ? in data with Nan')
             self.df_without_spaces=self.data.apply(lambda x: x.str.strip() if x.dtype == "object" else x)  # drop the labels specified in the columns
@@ -139,6 +140,7 @@ class Preprocessor:
             for col in self.cols_with_missing_values:
                 # Transform the column within a DataFrame context to avoid Series issues
                 self.data[col] = self.imputer.fit_transform(self.data[[col]])
+              
             
             self.logger_object.log(self.file_object, 'Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class')
             return self.data
@@ -202,8 +204,8 @@ class Preprocessor:
             self.cat_df['incident_severity'] = self.cat_df['incident_severity'].map(
                 {'Trivial Damage': 1, 'Minor Damage': 2, 'Major Damage': 3, 'Total Loss': 4})
             self.cat_df['insured_sex'] = self.cat_df['insured_sex'].map({'FEMALE': 0, 'MALE': 1})
-            self.cat_df['property_damage'] = self.cat_df['property_damage'].map({'NO': 0, 'YES': 1})
-            self.cat_df['police_report_available'] = self.cat_df['police_report_available'].map({'NO': 0, 'YES': 1})
+            self.cat_df['property_damage'] = self.cat_df['property_damage'].map({'NO': 0, 'YES': 1,'Missing':0})
+            self.cat_df['police_report_available'] = self.cat_df['police_report_available'].map({'NO': 0, 'YES': 1,'Missing':0})
             try:
                 # code block for training
                 self.cat_df['fraud_reported'] = self.cat_df['fraud_reported'].map({'N': 0, 'Y': 1})
