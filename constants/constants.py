@@ -1,5 +1,6 @@
 import os
 input_file_path="Insurance-Fraud-Detection---End-to-End-Project\Data\insuranceFraud.csv"
+predicted_results_path="Insurance-Fraud-Detection---End-to-End-Project\Data\predicted_results.csv"
 
 columns_list=['months_as_customer','age','policy_number', 
                'policy_bind_date','policy_state', 'policy_csl',
