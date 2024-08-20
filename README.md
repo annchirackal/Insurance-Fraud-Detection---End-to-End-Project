@@ -1,6 +1,27 @@
 # Insurance-Fraud-Detection---End-to-End-Project
-Problem Statement
-To build a classification methodology to determine whether a customer is placing a fraudulent insurance claim.
+
+### Problem Statement
+
+Develop an end-to-end web application for classifying insurance claims as fraudulent or legitimate. The application should:
+
+- Model Training:
+  Allow users to upload labeled data (CSV files) to retrain the classification model.
+  Save the uploaded data to a specified folder and use it to update the model’s training.
+- Prediction:
+  Enable users to upload new, unlabeled CSV files for prediction.
+  Provide the ability to view the predicted results and whether each claim is classified as fraudulent or legitimate.
+- User Interface:
+  Include a user-friendly interface with options to:
+  Choose between training the model or making predictions.
+  Upload corresponding CSV files based on the selected option.
+  Display success messages and results clearly on the web interface.
+  Ensure seamless navigation between different functionalities of the app.
+- Data Handling:
+  Implement functionality to manage and store uploaded data securely.
+  Ensure that the system handles various file formats and maintains data integrity.
+- Model Management:
+  Provide feedback on the model’s performance after training and predictions.
+  Allow users to initiate model retraining with new data as needed.
 
 # Data Description
 The client will send data in multiple sets of files in batches at a given location. 
