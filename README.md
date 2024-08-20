@@ -4,7 +4,7 @@
 
 Develop an end-to-end web application for classifying insurance claims as fraudulent or legitimate. The application should:
 
-- Model Training:
+-  Model Training:
   - Allow users to upload labeled data (CSV files) to retrain the classification model.
   - Save the uploaded data to a specified folder and use it to update the model’s training.
 - Prediction:
@@ -23,7 +23,7 @@ Develop an end-to-end web application for classifying insurance claims as fraudu
   - Provide feedback on the model’s performance after training and predictions.
   - Allow users to initiate model retraining with new data as needed.
 
-## Data Description
+### Data Description
 The client will send data in multiple sets of files in batches at a given location. 
 The data contains the following attributes:
 Features:
@@ -68,7 +68,7 @@ https://www.berkshireinsuranceservices.com/arecombinedsinglelimitsbetter
 
 - fraud_reported:  Y or N(Target Label)
 Whether the claim is fraudulent or not.
-## Objectives:
+### Objectives:
 - Implement a robust model for detecting insurance fraud.
 - Improve recall to reduce the impact of false negatives.
 - Provide an intuitive web interface for easy model training and prediction.
@@ -83,12 +83,12 @@ Whether the claim is fraudulent or not.
 - XGBoost
 - Install dependencies: pip install -r requirements.txt
 - Run the app: python app.py
-## Technologies Used:
+### Technologies Used:
 - Flask: Used for developing the web application interface.
 - Python: Primary programming language for backend development.
 - Scikit-learn: Implements KNN, Random Forest, and XGBoost models.
 
-## Challenges Faced:
+### Challenges Faced:
 - Model Selection: Balancing between XGBoost and Random Forest for optimal performance.
 - Recall Optimization: Enhancing recall to minimize false negatives.
 - User Interface: Designing an easy-to-use web interface for model interaction.
