@@ -68,6 +68,30 @@ https://www.berkshireinsuranceservices.com/arecombinedsinglelimitsbetter
 
 - fraud_reported:  Y or N(Target Label)
 Whether the claim is fraudulent or not.
+## Objectives:
+Implement a robust model for detecting insurance fraud.
+Improve recall to reduce the impact of false negatives.
+Provide an intuitive web interface for easy model training and prediction.
+## Features:
+Model Training: Retrains using XGBoost and Random Forest, selecting the best-performing model.
+Prediction: Predicts fraudulent claims with 95% accuracy.
+Web Interface: Allows users to choose between training and prediction modes and upload CSV files for data input.
+### Prerequisites/Steps For Execution:
+Python 3.10 or above
+Flask
+Scikit-learn
+XGBoost
+Install dependencies: pip install -r requirements.txt
+Run the app: python app.py
+## Technologies Used:
+Flask: Used for developing the web application interface.
+Python: Primary programming language for backend development.
+Scikit-learn: Implements KNN, Random Forest, and XGBoost models.
+
+## Challenges Faced:
+Model Selection: Balancing between XGBoost and Random Forest for optimal performance.
+Recall Optimization: Enhancing recall to minimize false negatives.
+User Interface: Designing an easy-to-use web interface for model interaction.
 
 
 
