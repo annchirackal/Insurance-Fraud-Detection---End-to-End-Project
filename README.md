@@ -5,23 +5,23 @@
 Develop an end-to-end web application for classifying insurance claims as fraudulent or legitimate. The application should:
 
 - Model Training:
-  Allow users to upload labeled data (CSV files) to retrain the classification model.
-  Save the uploaded data to a specified folder and use it to update the model’s training.
+  - Allow users to upload labeled data (CSV files) to retrain the classification model.
+  - Save the uploaded data to a specified folder and use it to update the model’s training.
 - Prediction:
-  Enable users to upload new, unlabeled CSV files for prediction.
-  Provide the ability to view the predicted results and whether each claim is classified as fraudulent or legitimate.
+  - Enable users to upload new, unlabeled CSV files for prediction.
+  - Provide the ability to view the predicted results and whether each claim is classified as fraudulent or legitimate.
 - User Interface:
-  Include a user-friendly interface with options to:
-  Choose between training the model or making predictions.
-  Upload corresponding CSV files based on the selected option.
-  Display success messages and results clearly on the web interface.
-  Ensure seamless navigation between different functionalities of the app.
+  - Include a user-friendly interface with options to:
+  - Choose between training the model or making predictions.
+  - Upload corresponding CSV files based on the selected option.
+  - Display success messages and results clearly on the web interface.
+  - Ensure seamless navigation between different functionalities of the app.
 - Data Handling:
-  Implement functionality to manage and store uploaded data securely.
-  Ensure that the system handles various file formats and maintains data integrity.
+  - Implement functionality to manage and store uploaded data securely.
+  - Ensure that the system handles various file formats and maintains data integrity.
 - Model Management:
-  Provide feedback on the model’s performance after training and predictions.
-  Allow users to initiate model retraining with new data as needed.
+  - Provide feedback on the model’s performance after training and predictions.
+  - Allow users to initiate model retraining with new data as needed.
 
 ## Data Description
 The client will send data in multiple sets of files in batches at a given location. 
@@ -69,29 +69,29 @@ https://www.berkshireinsuranceservices.com/arecombinedsinglelimitsbetter
 - fraud_reported:  Y or N(Target Label)
 Whether the claim is fraudulent or not.
 ## Objectives:
-Implement a robust model for detecting insurance fraud.
-Improve recall to reduce the impact of false negatives.
-Provide an intuitive web interface for easy model training and prediction.
+- Implement a robust model for detecting insurance fraud.
+- Improve recall to reduce the impact of false negatives.
+- Provide an intuitive web interface for easy model training and prediction.
 ## Features:
-Model Training: Retrains using XGBoost and Random Forest, selecting the best-performing model.
-Prediction: Predicts fraudulent claims with 95% accuracy.
-Web Interface: Allows users to choose between training and prediction modes and upload CSV files for data input.
+- Model Training: Retrains using XGBoost and Random Forest, selecting the best-performing model.
+- Prediction: Predicts fraudulent claims with 95% accuracy.
+- Web Interface: Allows users to choose between training and prediction modes and upload CSV files for data input.
 ### Prerequisites/Steps For Execution:
-Python 3.10 or above
-Flask
-Scikit-learn
-XGBoost
-Install dependencies: pip install -r requirements.txt
-Run the app: python app.py
+- Python 3.10 or above
+- Flask
+- Scikit-learn
+- XGBoost
+- Install dependencies: pip install -r requirements.txt
+- Run the app: python app.py
 ## Technologies Used:
-Flask: Used for developing the web application interface.
-Python: Primary programming language for backend development.
-Scikit-learn: Implements KNN, Random Forest, and XGBoost models.
+- Flask: Used for developing the web application interface.
+- Python: Primary programming language for backend development.
+- Scikit-learn: Implements KNN, Random Forest, and XGBoost models.
 
 ## Challenges Faced:
-Model Selection: Balancing between XGBoost and Random Forest for optimal performance.
-Recall Optimization: Enhancing recall to minimize false negatives.
-User Interface: Designing an easy-to-use web interface for model interaction.
+- Model Selection: Balancing between XGBoost and Random Forest for optimal performance.
+- Recall Optimization: Enhancing recall to minimize false negatives.
+- User Interface: Designing an easy-to-use web interface for model interaction.
 
 
 
