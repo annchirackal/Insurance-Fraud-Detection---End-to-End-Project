@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Insurance Fraud Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 50px;
+        }
+        h1 {
+            color: #333;
+        }
+        label, input {
+            margin: 10px 0;
+            display: block;
+        }
+        input[type="submit"] {
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+        .message {
+            margin-top: 20px;
+            color: green;
+        }
+    </style>
+</head>
+<body>
+    <h1>Insurance Fraud Prediction</h1>
+
+    <form action="{{ url_for('upload_file') }}" method="POST" enctype="multipart/form-data">
+        <label for="option">Choose an option:</label>
+        <input type="radio" id="train" name="option" value="train">
+        <label for="train">Train</label>
+        
+        <input type="radio" id="test" name="option" value="test">
+        <label for="test">Predict</label>
+
+        <label for="file">Upload CSV file:</label>
+        <input type="file" name="file" accept=".csv" required>
+
+        <input type="submit" value="Submit">
+    </form>
+
+    <div class="message">
+        {% if message %}
+            {{ message }}
+        {% endif %}
+    </div>
+</body>
+</html>
