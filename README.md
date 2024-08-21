@@ -2,9 +2,9 @@
 
 ### Problem Statement
 
-Develop an end-to-end web application for classifying insurance claims as fraudulent or legitimate. The application should:
+Develop an end-to-end web application for classifying insurance claims as fraudulent or legitimate so that users can easily approve the legitimate cases and intiate a deatiled ivestigation on cases which are calssified as fraud. The application should:
 
--  Model Training:
+- Model Training Option:
   - Allow users to upload labeled data (CSV files) to retrain the classification model.
   - Save the uploaded data to a specified folder and use it to update the model’s training.
 - Prediction:
@@ -16,9 +16,7 @@ Develop an end-to-end web application for classifying insurance claims as fraudu
   - Upload corresponding CSV files based on the selected option.
   - Display success messages and results clearly on the web interface.
   - Ensure seamless navigation between different functionalities of the app.
-- Data Handling:
-  - Implement functionality to manage and store uploaded data securely.
-  - Ensure that the system handles various file formats and maintains data integrity.
+
 - Model Management:
   - Provide feedback on the model’s performance after training and predictions.
   - Allow users to initiate model retraining with new data as needed.
@@ -26,7 +24,6 @@ Develop an end-to-end web application for classifying insurance claims as fraudu
 ![alt text](<Road Map.jpeg>)
 
 ### Data Description
-The client will send data in multiple sets of files in batches at a given location. 
 The data contains the following attributes:
 Features:
 - months_as_customer: It denotes the number of months for which the customer is associated with the insurance company.
