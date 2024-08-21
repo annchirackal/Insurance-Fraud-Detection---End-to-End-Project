@@ -71,7 +71,7 @@ Whether the claim is fraudulent or not.
 - Implement a robust model for detecting insurance fraud.
 - Improve recall to reduce the impact of false negatives.
 - Provide an intuitive web interface for easy model training and prediction.
-## Features:
+## Features Included:
 - Model Training: Retrains using XGBoost and Random Forest, selecting the best-performing model.
 - Prediction: Predicts fraudulent claims with 95% accuracy.
 - Web Interface: Allows users to choose between training and prediction modes and upload CSV files for data input.
