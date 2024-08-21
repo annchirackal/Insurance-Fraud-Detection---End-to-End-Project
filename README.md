@@ -77,9 +77,6 @@ Whether the claim is fraudulent or not.
 - Web Interface: Allows users to choose between training and prediction modes and upload CSV files for data input.
 ### Prerequisites/Steps For Execution:
 - Python 3.10 or above
-- Flask
-- Scikit-learn
-- XGBoost
 - Install dependencies: pip install -r requirements.txt
 - Run the app: python main.py
 ### Technologies Used:
