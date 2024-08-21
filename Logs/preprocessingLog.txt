@@ -1,0 +1,1408 @@
+2024-08-18/12:55:10		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-18/12:55:10		Successfully loaded input data
+2024-08-18/12:55:10		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-18/12:55:10		Replaced ? in data with Nan
+2024-08-18/12:55:10		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-18/12:55:10		Entered the remove_columns method of the Preprocessor class
+2024-08-18/12:55:10		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-18/12:55:10		Entered the is_null_present method of the Preprocessor class
+2024-08-18/12:55:10		Finding missing values is a success.
+2024-08-18/12:55:10		Entered the impute_missing_values method of the Preprocessor class
+2024-08-18/12:55:10		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-18/12:55:10		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-18/12:55:10		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-18/12:55:10		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-18/12:55:10		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-18/12:55:10		Entered the separate_label_feature method of the Preprocessor class
+2024-08-18/12:55:10		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-18/12:55:10		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-18/12:55:10		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-18/12:55:10		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/15:58:53		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/15:58:54		Successfully loaded input data
+2024-08-19/15:58:54		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/15:58:54		Replaced ? in data with Nan
+2024-08-19/15:58:54		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/15:58:54		Entered the remove_columns method of the Preprocessor class
+2024-08-19/15:58:54		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/15:58:54		Entered the is_null_present method of the Preprocessor class
+2024-08-19/15:58:54		Finding missing values is a success.
+2024-08-19/15:58:54		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/15:58:54		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/15:58:54		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/15:58:54		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/15:58:54		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/15:58:54		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/15:58:54		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/15:58:54		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/15:58:54		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/15:58:54		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/15:58:54		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/16:00:59		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/16:00:59		Successfully loaded input data
+2024-08-19/16:00:59		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:00:59		Replaced ? in data with Nan
+2024-08-19/16:00:59		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:00:59		Entered the remove_columns method of the Preprocessor class
+2024-08-19/16:00:59		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/16:00:59		Entered the is_null_present method of the Preprocessor class
+2024-08-19/16:00:59		Finding missing values is a success.
+2024-08-19/16:00:59		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/16:00:59		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/16:00:59		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:00:59		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:00:59		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:00:59		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:00:59		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/16:00:59		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/16:00:59		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:00:59		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:00:59		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/16:01:53		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/16:01:53		Successfully loaded input data
+2024-08-19/16:01:53		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:01:53		Replaced ? in data with Nan
+2024-08-19/16:01:53		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:01:53		Entered the remove_columns method of the Preprocessor class
+2024-08-19/16:01:53		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/16:01:53		Entered the is_null_present method of the Preprocessor class
+2024-08-19/16:01:53		Finding missing values is a success.
+2024-08-19/16:01:53		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/16:01:53		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/16:01:53		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:01:53		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:01:53		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:01:53		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:01:53		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/16:01:53		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/16:01:53		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:01:53		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:01:53		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/16:03:36		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/16:03:36		Successfully loaded input data
+2024-08-19/16:03:36		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:03:36		Replaced ? in data with Nan
+2024-08-19/16:03:36		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:03:36		Entered the remove_columns method of the Preprocessor class
+2024-08-19/16:03:36		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/16:03:36		Entered the is_null_present method of the Preprocessor class
+2024-08-19/16:03:36		Finding missing values is a success.
+2024-08-19/16:03:36		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/16:03:36		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/16:03:36		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:03:36		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:03:36		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:03:36		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:03:36		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/16:03:36		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/16:03:36		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:03:36		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:03:36		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/16:05:19		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/16:05:19		Successfully loaded input data
+2024-08-19/16:05:19		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:05:19		Replaced ? in data with Nan
+2024-08-19/16:05:19		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:05:19		Entered the remove_columns method of the Preprocessor class
+2024-08-19/16:05:19		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/16:05:19		Entered the is_null_present method of the Preprocessor class
+2024-08-19/16:05:19		Finding missing values is a success.
+2024-08-19/16:05:19		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/16:05:20		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/16:05:20		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:05:20		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:05:20		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:05:20		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:05:20		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/16:05:20		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/16:05:20		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:05:20		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:05:20		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/16:09:28		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/16:09:28		Successfully loaded input data
+2024-08-19/16:09:28		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:09:28		Replaced ? in data with Nan
+2024-08-19/16:09:28		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:09:28		Entered the remove_columns method of the Preprocessor class
+2024-08-19/16:09:28		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/16:09:28		Entered the is_null_present method of the Preprocessor class
+2024-08-19/16:09:28		Finding missing values is a success.
+2024-08-19/16:09:28		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/16:09:28		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/16:09:28		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:09:28		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:09:28		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:09:28		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:09:28		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/16:09:28		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/16:09:28		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:09:28		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:09:28		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/16:10:42		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/16:10:42		Successfully loaded input data
+2024-08-19/16:10:42		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:10:42		Replaced ? in data with Nan
+2024-08-19/16:10:42		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:10:42		Entered the remove_columns method of the Preprocessor class
+2024-08-19/16:10:42		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/16:10:42		Entered the is_null_present method of the Preprocessor class
+2024-08-19/16:10:42		Finding missing values is a success.
+2024-08-19/16:10:42		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/16:10:42		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/16:10:42		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:10:42		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:10:42		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:10:42		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:10:42		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/16:10:42		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/16:10:42		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:10:42		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:10:42		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/16:14:25		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/16:14:25		Successfully loaded input data
+2024-08-19/16:14:25		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:14:25		Replaced ? in data with Nan
+2024-08-19/16:14:25		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:14:25		Entered the remove_columns method of the Preprocessor class
+2024-08-19/16:14:25		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/16:14:25		Entered the is_null_present method of the Preprocessor class
+2024-08-19/16:14:25		Finding missing values is a success.
+2024-08-19/16:14:25		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/16:14:25		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/16:14:25		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:14:25		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:14:25		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:14:25		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:14:25		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/16:14:25		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/16:14:25		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:14:25		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:14:25		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/16:16:09		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/16:16:09		Successfully loaded input data
+2024-08-19/16:16:09		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:16:09		Replaced ? in data with Nan
+2024-08-19/16:16:09		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:16:09		Entered the remove_columns method of the Preprocessor class
+2024-08-19/16:16:09		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/16:16:09		Entered the is_null_present method of the Preprocessor class
+2024-08-19/16:16:09		Finding missing values is a success.
+2024-08-19/16:16:09		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/16:16:09		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/16:16:09		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:16:09		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:16:09		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:16:09		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:16:09		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/16:16:09		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/16:16:09		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:16:09		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:16:09		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/16:17:33		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/16:17:33		Successfully loaded input data
+2024-08-19/16:17:33		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:17:33		Replaced ? in data with Nan
+2024-08-19/16:17:33		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:17:33		Entered the remove_columns method of the Preprocessor class
+2024-08-19/16:17:33		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/16:17:33		Entered the is_null_present method of the Preprocessor class
+2024-08-19/16:17:33		Finding missing values is a success.
+2024-08-19/16:17:33		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/16:17:33		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/16:17:33		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:17:33		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:17:33		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:17:33		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:17:33		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/16:17:33		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/16:17:33		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:17:33		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:17:33		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/16:18:41		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/16:18:41		Successfully loaded input data
+2024-08-19/16:18:41		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:18:41		Replaced ? in data with Nan
+2024-08-19/16:18:41		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:18:41		Entered the remove_columns method of the Preprocessor class
+2024-08-19/16:18:41		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/16:18:41		Entered the is_null_present method of the Preprocessor class
+2024-08-19/16:18:41		Finding missing values is a success.
+2024-08-19/16:18:41		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/16:18:41		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/16:18:41		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:18:41		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:18:41		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:18:41		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:18:41		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/16:18:42		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/16:18:42		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:18:42		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:18:42		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/16:21:56		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/16:21:56		Successfully loaded input data
+2024-08-19/16:21:56		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:21:56		Replaced ? in data with Nan
+2024-08-19/16:21:56		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:21:56		Entered the remove_columns method of the Preprocessor class
+2024-08-19/16:21:56		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/16:21:56		Entered the is_null_present method of the Preprocessor class
+2024-08-19/16:21:56		Finding missing values is a success.
+2024-08-19/16:21:56		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/16:21:56		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/16:21:56		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:21:56		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:21:56		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:21:56		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:21:56		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/16:21:56		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/16:21:56		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:21:56		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:21:56		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/16:26:08		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/16:26:08		Successfully loaded input data
+2024-08-19/16:26:08		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:26:08		Replaced ? in data with Nan
+2024-08-19/16:26:08		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:26:08		Entered the remove_columns method of the Preprocessor class
+2024-08-19/16:26:08		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/16:26:08		Entered the is_null_present method of the Preprocessor class
+2024-08-19/16:26:08		Finding missing values is a success.
+2024-08-19/16:26:08		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/16:26:08		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/16:26:08		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:26:08		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:26:08		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:26:08		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:26:08		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/16:26:08		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/16:26:08		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:26:08		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:26:08		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/16:31:08		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/16:31:08		Successfully loaded input data
+2024-08-19/16:31:08		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:31:08		Replaced ? in data with Nan
+2024-08-19/16:31:08		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:31:08		Entered the remove_columns method of the Preprocessor class
+2024-08-19/16:31:08		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/16:31:08		Entered the is_null_present method of the Preprocessor class
+2024-08-19/16:31:08		Finding missing values is a success.
+2024-08-19/16:31:08		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/16:31:08		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/16:31:08		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:31:08		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:31:08		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:31:08		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:31:08		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/16:31:08		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/16:31:08		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:31:08		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:31:08		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/16:32:23		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/16:32:23		Successfully loaded input data
+2024-08-19/16:32:23		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:32:23		Replaced ? in data with Nan
+2024-08-19/16:32:23		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:32:23		Entered the remove_columns method of the Preprocessor class
+2024-08-19/16:32:23		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/16:32:23		Entered the is_null_present method of the Preprocessor class
+2024-08-19/16:32:23		Finding missing values is a success.
+2024-08-19/16:32:23		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/16:32:23		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/16:32:23		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:32:23		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:32:23		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:32:23		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:32:23		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/16:32:23		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/16:32:23		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:32:23		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:32:23		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/16:32:57		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/16:32:57		Successfully loaded input data
+2024-08-19/16:32:57		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:32:57		Replaced ? in data with Nan
+2024-08-19/16:32:57		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:32:57		Entered the remove_columns method of the Preprocessor class
+2024-08-19/16:32:57		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/16:32:57		Entered the is_null_present method of the Preprocessor class
+2024-08-19/16:32:57		Finding missing values is a success.
+2024-08-19/16:32:57		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/16:32:57		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/16:32:57		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:32:57		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:32:57		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:32:57		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:32:57		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/16:32:57		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/16:32:57		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:32:57		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:32:57		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/16:34:50		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/16:34:50		Successfully loaded input data
+2024-08-19/16:34:50		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:34:50		Replaced ? in data with Nan
+2024-08-19/16:34:50		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:34:50		Entered the remove_columns method of the Preprocessor class
+2024-08-19/16:34:50		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/16:34:50		Entered the is_null_present method of the Preprocessor class
+2024-08-19/16:34:50		Finding missing values is a success.
+2024-08-19/16:34:50		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/16:34:50		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/16:34:50		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:34:50		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:34:50		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:34:50		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:34:50		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/16:34:50		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/16:34:50		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:34:50		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:34:50		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/16:36:45		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/16:36:45		Successfully loaded input data
+2024-08-19/16:36:45		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:36:45		Replaced ? in data with Nan
+2024-08-19/16:36:45		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:36:45		Entered the remove_columns method of the Preprocessor class
+2024-08-19/16:36:45		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/16:36:45		Entered the is_null_present method of the Preprocessor class
+2024-08-19/16:36:45		Finding missing values is a success.
+2024-08-19/16:36:45		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/16:36:45		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/16:36:45		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:36:45		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:36:45		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:36:45		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:36:45		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/16:36:45		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/16:36:45		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:36:45		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:36:45		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/16:39:11		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/16:39:11		Successfully loaded input data
+2024-08-19/16:39:11		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:39:11		Replaced ? in data with Nan
+2024-08-19/16:39:11		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:39:11		Entered the remove_columns method of the Preprocessor class
+2024-08-19/16:39:11		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/16:39:11		Entered the is_null_present method of the Preprocessor class
+2024-08-19/16:39:11		Finding missing values is a success.
+2024-08-19/16:39:11		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/16:39:11		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/16:39:11		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:39:11		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:39:11		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:39:11		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:39:11		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/16:39:11		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/16:39:11		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:39:11		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:39:11		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/16:42:48		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/16:42:48		Successfully loaded input data
+2024-08-19/16:42:48		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:42:48		Replaced ? in data with Nan
+2024-08-19/16:42:48		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:42:48		Entered the remove_columns method of the Preprocessor class
+2024-08-19/16:42:48		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/16:42:48		Entered the is_null_present method of the Preprocessor class
+2024-08-19/16:42:48		Finding missing values is a success.
+2024-08-19/16:42:48		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/16:42:48		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/16:42:48		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:42:48		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:42:48		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:42:48		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:42:48		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/16:42:48		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/16:42:48		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:42:48		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:42:48		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/16:47:26		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/16:47:26		Successfully loaded input data
+2024-08-19/16:47:26		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:47:26		Replaced ? in data with Nan
+2024-08-19/16:47:26		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:47:26		Entered the remove_columns method of the Preprocessor class
+2024-08-19/16:47:26		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/16:47:26		Entered the is_null_present method of the Preprocessor class
+2024-08-19/16:47:26		Finding missing values is a success.
+2024-08-19/16:47:26		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/16:47:26		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/16:47:26		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:47:26		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:47:26		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:47:26		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:47:26		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/16:47:26		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/16:47:26		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:47:26		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:47:26		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/16:54:58		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/16:54:58		Successfully loaded input data
+2024-08-19/16:54:58		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:54:58		Replaced ? in data with Nan
+2024-08-19/16:54:58		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:54:58		Entered the remove_columns method of the Preprocessor class
+2024-08-19/16:54:58		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/16:54:58		Entered the is_null_present method of the Preprocessor class
+2024-08-19/16:54:58		Finding missing values is a success.
+2024-08-19/16:54:58		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/16:54:58		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/16:54:58		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:54:58		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:54:58		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:54:58		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:54:58		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/16:54:58		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/16:54:58		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:54:58		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:54:58		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/16:59:40		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/16:59:40		Successfully loaded input data
+2024-08-19/16:59:40		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:59:40		Replaced ? in data with Nan
+2024-08-19/16:59:40		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/16:59:40		Entered the remove_columns method of the Preprocessor class
+2024-08-19/16:59:40		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/16:59:40		Entered the is_null_present method of the Preprocessor class
+2024-08-19/16:59:40		Finding missing values is a success.
+2024-08-19/16:59:40		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/16:59:40		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/16:59:40		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:59:40		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/16:59:40		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:59:40		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/16:59:40		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/16:59:40		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/16:59:40		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:59:40		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/16:59:40		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/17:21:29		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/17:21:29		Successfully loaded input data
+2024-08-19/17:21:29		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/17:21:29		Replaced ? in data with Nan
+2024-08-19/17:21:29		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/17:21:29		Entered the remove_columns method of the Preprocessor class
+2024-08-19/17:21:29		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/17:21:29		Entered the is_null_present method of the Preprocessor class
+2024-08-19/17:21:29		Finding missing values is a success.
+2024-08-19/17:21:29		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/17:21:29		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/17:21:29		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/17:21:29		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/17:21:29		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/17:21:29		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/17:21:29		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/17:21:29		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/17:21:29		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/17:21:29		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/17:21:29		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/17:26:51		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/17:26:51		Successfully loaded input data
+2024-08-19/17:26:51		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/17:26:51		Replaced ? in data with Nan
+2024-08-19/17:26:51		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/17:26:51		Entered the remove_columns method of the Preprocessor class
+2024-08-19/17:26:51		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/17:26:51		Entered the is_null_present method of the Preprocessor class
+2024-08-19/17:26:51		Finding missing values is a success.
+2024-08-19/17:26:51		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/17:26:51		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/17:26:51		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/17:26:51		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/17:26:51		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/17:26:51		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/17:26:51		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/17:26:51		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/17:26:51		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/17:26:51		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/17:26:51		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/17:30:51		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/17:30:51		Successfully loaded input data
+2024-08-19/17:30:51		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/17:30:51		Replaced ? in data with Nan
+2024-08-19/17:30:51		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/17:30:51		Entered the remove_columns method of the Preprocessor class
+2024-08-19/17:30:51		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/17:30:51		Entered the is_null_present method of the Preprocessor class
+2024-08-19/17:30:51		Finding missing values is a success.
+2024-08-19/17:30:51		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/17:30:51		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/17:30:51		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/17:30:51		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/17:30:51		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/17:30:51		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/17:30:51		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/17:30:51		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/17:30:51		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/17:30:51		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/17:30:51		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/17:44:06		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/17:44:06		Successfully loaded input data
+2024-08-19/17:44:06		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/17:44:06		Replaced ? in data with Nan
+2024-08-19/17:44:06		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/17:44:06		Entered the remove_columns method of the Preprocessor class
+2024-08-19/17:44:06		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/17:44:06		Entered the is_null_present method of the Preprocessor class
+2024-08-19/17:44:06		Finding missing values is a success.
+2024-08-19/17:44:06		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/17:44:06		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/17:44:06		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/17:44:06		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/17:44:06		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/17:44:06		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/17:44:06		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/17:44:06		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/17:44:06		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/17:44:06		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/17:44:06		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/17:46:16		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/17:46:16		Successfully loaded input data
+2024-08-19/17:46:16		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/17:46:16		Replaced ? in data with Nan
+2024-08-19/17:46:16		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/17:46:16		Entered the remove_columns method of the Preprocessor class
+2024-08-19/17:46:16		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/17:46:16		Entered the is_null_present method of the Preprocessor class
+2024-08-19/17:46:16		Finding missing values is a success.
+2024-08-19/17:46:16		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/17:46:16		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/17:46:16		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/17:46:16		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/17:46:16		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/17:46:16		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/17:46:16		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/17:46:16		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/17:46:16		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/17:46:16		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/17:46:16		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/17:53:38		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/17:53:38		Successfully loaded input data
+2024-08-19/17:53:38		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/17:53:38		Replaced ? in data with Nan
+2024-08-19/17:53:38		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/17:53:38		Entered the remove_columns method of the Preprocessor class
+2024-08-19/17:53:38		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/17:53:38		Entered the is_null_present method of the Preprocessor class
+2024-08-19/17:53:38		Finding missing values is a success.
+2024-08-19/17:53:38		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/17:53:38		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/17:53:38		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/17:53:38		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/17:53:38		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/17:53:38		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/17:53:38		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/17:53:38		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/17:53:38		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/17:53:38		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/17:53:38		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/19:02:04		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/19:02:04		Successfully loaded input data
+2024-08-19/19:02:04		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/19:02:04		Replaced ? in data with Nan
+2024-08-19/19:02:04		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/19:02:04		Entered the remove_columns method of the Preprocessor class
+2024-08-19/19:02:04		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/19:02:04		Entered the is_null_present method of the Preprocessor class
+2024-08-19/19:02:04		Finding missing values is a success.
+2024-08-19/19:02:04		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/19:02:04		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/19:02:04		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/19:02:04		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/19:02:04		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/19:02:04		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/19:02:04		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/19:02:04		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/19:02:04		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/19:02:04		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/19:02:04		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/20:11:53		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/20:11:53		Successfully loaded input data
+2024-08-19/20:11:53		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/20:11:53		Replaced ? in data with Nan
+2024-08-19/20:11:53		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/20:11:53		Entered the remove_columns method of the Preprocessor class
+2024-08-19/20:11:53		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/20:11:53		Entered the is_null_present method of the Preprocessor class
+2024-08-19/20:11:53		Finding missing values is a success.
+2024-08-19/20:11:53		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/20:11:53		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/20:11:53		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/20:11:53		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/20:11:53		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/20:11:53		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/20:11:53		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/20:11:53		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/20:11:53		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/20:11:53		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/20:11:53		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/20:12:18		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/20:12:18		Successfully loaded input data
+2024-08-19/20:12:18		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/20:12:18		Replaced ? in data with Nan
+2024-08-19/20:12:18		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/20:12:18		Entered the remove_columns method of the Preprocessor class
+2024-08-19/20:12:18		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/20:12:18		Entered the is_null_present method of the Preprocessor class
+2024-08-19/20:12:18		Finding missing values is a success.
+2024-08-19/20:12:18		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/20:12:18		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/20:12:18		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/20:12:18		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/20:12:18		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/20:12:18		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/20:12:18		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/20:12:18		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/20:12:18		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/20:12:18		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/20:12:18		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/20:13:38		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/20:13:38		Successfully loaded input data
+2024-08-19/20:13:38		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/20:13:38		Replaced ? in data with Nan
+2024-08-19/20:13:38		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/20:13:38		Entered the remove_columns method of the Preprocessor class
+2024-08-19/20:13:38		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/20:13:38		Entered the is_null_present method of the Preprocessor class
+2024-08-19/20:13:38		Finding missing values is a success.
+2024-08-19/20:13:38		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/20:13:38		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/20:13:38		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/20:13:38		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/20:13:38		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/20:13:38		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/20:13:38		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/20:13:38		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/20:13:38		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/20:13:38		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/20:13:38		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/20:13:51		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/20:13:51		Successfully loaded input data
+2024-08-19/20:13:51		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/20:13:51		Replaced ? in data with Nan
+2024-08-19/20:13:51		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/20:13:51		Entered the remove_columns method of the Preprocessor class
+2024-08-19/20:13:51		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/20:13:51		Entered the is_null_present method of the Preprocessor class
+2024-08-19/20:13:51		Finding missing values is a success.
+2024-08-19/20:13:51		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/20:13:51		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/20:13:51		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/20:13:51		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/20:13:51		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/20:13:51		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/20:13:51		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/20:13:51		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/20:13:51		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/20:13:51		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/20:13:51		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/20:14:35		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/20:14:35		Successfully loaded input data
+2024-08-19/20:14:35		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/20:14:35		Replaced ? in data with Nan
+2024-08-19/20:14:35		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/20:14:35		Entered the remove_columns method of the Preprocessor class
+2024-08-19/20:14:35		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/20:14:35		Entered the is_null_present method of the Preprocessor class
+2024-08-19/20:14:35		Finding missing values is a success.
+2024-08-19/20:14:35		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/20:14:35		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/20:14:35		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/20:14:35		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/20:14:35		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/20:14:35		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/20:14:35		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/20:14:35		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/20:14:35		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/20:14:35		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/20:14:35		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/20:15:23		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/20:15:23		Successfully loaded input data
+2024-08-19/20:15:23		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/20:15:23		Replaced ? in data with Nan
+2024-08-19/20:15:23		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/20:15:23		Entered the remove_columns method of the Preprocessor class
+2024-08-19/20:15:23		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/20:15:23		Entered the is_null_present method of the Preprocessor class
+2024-08-19/20:15:23		Finding missing values is a success.
+2024-08-19/20:15:23		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/20:15:23		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/20:15:23		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/20:15:23		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/20:15:23		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/20:15:23		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/20:15:23		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/20:15:23		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/20:15:23		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/20:15:23		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/20:15:23		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/20:17:03		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/20:17:03		Successfully loaded input data
+2024-08-19/20:17:03		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/20:17:03		Replaced ? in data with Nan
+2024-08-19/20:17:03		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/20:17:03		Entered the remove_columns method of the Preprocessor class
+2024-08-19/20:17:03		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/20:17:03		Entered the is_null_present method of the Preprocessor class
+2024-08-19/20:17:03		Finding missing values is a success.
+2024-08-19/20:17:03		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/20:17:03		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/20:17:03		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/20:17:03		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/20:17:03		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/20:17:03		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/20:17:03		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/20:17:03		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/20:17:03		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/20:17:03		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/20:17:03		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/20:18:25		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/20:18:26		Successfully loaded input data
+2024-08-19/20:18:26		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/20:18:26		Replaced ? in data with Nan
+2024-08-19/20:18:26		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/20:18:26		Entered the remove_columns method of the Preprocessor class
+2024-08-19/20:18:26		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/20:18:26		Entered the is_null_present method of the Preprocessor class
+2024-08-19/20:18:26		Finding missing values is a success.
+2024-08-19/20:18:26		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/20:18:26		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/20:18:26		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/20:18:26		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/20:18:26		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/20:18:26		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/20:18:26		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/20:18:26		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/20:18:26		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/20:18:26		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/20:18:26		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/20:19:29		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/20:19:29		Successfully loaded input data
+2024-08-19/20:19:29		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/20:19:29		Replaced ? in data with Nan
+2024-08-19/20:19:29		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/20:19:29		Entered the remove_columns method of the Preprocessor class
+2024-08-19/20:19:29		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/20:19:29		Entered the is_null_present method of the Preprocessor class
+2024-08-19/20:19:29		Finding missing values is a success.
+2024-08-19/20:19:29		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/20:19:29		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/20:19:29		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/20:19:29		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/20:19:29		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/20:19:29		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/20:19:29		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/20:19:29		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/20:19:29		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/20:19:29		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/20:19:29		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/20:20:35		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/20:20:35		Successfully loaded input data
+2024-08-19/20:20:35		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/20:20:35		Replaced ? in data with Nan
+2024-08-19/20:20:35		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/20:20:35		Entered the remove_columns method of the Preprocessor class
+2024-08-19/20:20:35		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/20:20:35		Entered the is_null_present method of the Preprocessor class
+2024-08-19/20:20:35		Finding missing values is a success.
+2024-08-19/20:20:35		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/20:20:35		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/20:20:35		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/20:20:35		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/20:20:35		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/20:20:35		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/20:20:35		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/20:20:35		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/20:20:35		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/20:20:35		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/20:20:35		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/20:21:13		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/20:21:13		Successfully loaded input data
+2024-08-19/20:21:13		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/20:21:13		Replaced ? in data with Nan
+2024-08-19/20:21:13		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/20:21:13		Entered the remove_columns method of the Preprocessor class
+2024-08-19/20:21:13		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/20:21:13		Entered the is_null_present method of the Preprocessor class
+2024-08-19/20:21:13		Finding missing values is a success.
+2024-08-19/20:21:13		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/20:21:13		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/20:21:13		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/20:21:13		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/20:21:13		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/20:21:13		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/20:21:13		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/20:21:13		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/20:21:13		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/20:21:13		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/20:21:13		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/20:21:30		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/20:21:30		Successfully loaded input data
+2024-08-19/20:21:30		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/20:21:30		Replaced ? in data with Nan
+2024-08-19/20:21:30		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/20:21:30		Entered the remove_columns method of the Preprocessor class
+2024-08-19/20:21:30		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/20:21:30		Entered the is_null_present method of the Preprocessor class
+2024-08-19/20:21:30		Finding missing values is a success.
+2024-08-19/20:21:30		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/20:21:30		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/20:21:30		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/20:21:30		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/20:21:30		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/20:21:30		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/20:21:30		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/20:21:30		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/20:21:30		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/20:21:30		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/20:21:30		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/21:31:09		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/21:31:09		Successfully loaded input data
+2024-08-19/21:31:09		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/21:31:09		Replaced ? in data with Nan
+2024-08-19/21:31:09		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/21:31:09		Entered the remove_columns method of the Preprocessor class
+2024-08-19/21:31:09		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/21:31:09		Entered the is_null_present method of the Preprocessor class
+2024-08-19/21:31:09		Finding missing values is a success.
+2024-08-19/21:31:09		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/21:31:09		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/21:31:09		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/21:31:09		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/21:31:09		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/21:31:09		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/21:31:09		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/21:31:09		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/21:31:09		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/21:31:09		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/21:31:09		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/21:31:53		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/21:31:53		Successfully loaded input data
+2024-08-19/21:31:53		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/21:31:53		Replaced ? in data with Nan
+2024-08-19/21:31:53		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/21:31:53		Entered the remove_columns method of the Preprocessor class
+2024-08-19/21:31:53		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/21:31:53		Entered the is_null_present method of the Preprocessor class
+2024-08-19/21:31:53		Finding missing values is a success.
+2024-08-19/21:31:53		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/21:31:53		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/21:31:53		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/21:31:53		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/21:31:53		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/21:31:53		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/21:31:53		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/21:31:53		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/21:31:53		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/21:31:53		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/21:31:53		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/21:37:04		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/21:37:04		Successfully loaded input data
+2024-08-19/21:37:04		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/21:37:04		Replaced ? in data with Nan
+2024-08-19/21:37:04		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/21:37:04		Entered the remove_columns method of the Preprocessor class
+2024-08-19/21:37:04		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/21:37:04		Entered the is_null_present method of the Preprocessor class
+2024-08-19/21:37:04		Finding missing values is a success.
+2024-08-19/21:37:04		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/21:37:04		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/21:37:04		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/21:37:04		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/21:37:04		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/21:37:04		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/21:37:04		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/21:37:04		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/21:37:04		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/21:37:04		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/21:37:04		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/21:40:42		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/21:40:42		Successfully loaded input data
+2024-08-19/21:40:42		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/21:40:42		Replaced ? in data with Nan
+2024-08-19/21:40:42		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/21:40:42		Entered the remove_columns method of the Preprocessor class
+2024-08-19/21:40:42		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/21:40:42		Entered the is_null_present method of the Preprocessor class
+2024-08-19/21:40:42		Finding missing values is a success.
+2024-08-19/21:40:42		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/21:40:42		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/21:40:42		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/21:40:42		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/21:40:42		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/21:40:42		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/21:40:42		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/21:40:42		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/21:40:42		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/21:40:42		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/21:40:42		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/21:40:51		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/21:40:51		Successfully loaded input data
+2024-08-19/21:40:51		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/21:40:51		Replaced ? in data with Nan
+2024-08-19/21:40:51		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/21:40:51		Entered the remove_columns method of the Preprocessor class
+2024-08-19/21:40:51		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/21:40:51		Entered the is_null_present method of the Preprocessor class
+2024-08-19/21:40:51		Finding missing values is a success.
+2024-08-19/21:40:51		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/21:40:51		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/21:40:51		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/21:40:51		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/21:40:51		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/21:40:51		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/21:40:51		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/21:40:51		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/21:40:51		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/21:40:51		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/21:40:51		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/21:43:27		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/21:43:27		Successfully loaded input data
+2024-08-19/21:43:27		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/21:43:27		Replaced ? in data with Nan
+2024-08-19/21:43:27		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/21:43:27		Entered the remove_columns method of the Preprocessor class
+2024-08-19/21:43:27		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/21:43:27		Entered the is_null_present method of the Preprocessor class
+2024-08-19/21:43:27		Finding missing values is a success.
+2024-08-19/21:43:27		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/21:43:27		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/21:43:27		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/21:43:27		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/21:43:27		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/21:43:27		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/21:43:27		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/21:43:27		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/21:43:27		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/21:43:27		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/21:43:27		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/21:43:30		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/21:43:30		Successfully loaded input data
+2024-08-19/21:43:30		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/21:43:30		Replaced ? in data with Nan
+2024-08-19/21:43:30		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/21:43:30		Entered the remove_columns method of the Preprocessor class
+2024-08-19/21:43:30		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/21:43:30		Entered the is_null_present method of the Preprocessor class
+2024-08-19/21:43:30		Finding missing values is a success.
+2024-08-19/21:43:30		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/21:43:30		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/21:43:30		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/21:43:30		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/21:43:30		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/21:43:30		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/21:43:30		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/21:43:30		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/21:43:30		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/21:43:30		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/21:43:30		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/21:54:56		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/21:54:56		Successfully loaded input data
+2024-08-19/21:54:56		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/21:54:56		Replaced ? in data with Nan
+2024-08-19/21:54:56		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/21:54:56		Entered the remove_columns method of the Preprocessor class
+2024-08-19/21:54:56		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/21:54:56		Entered the is_null_present method of the Preprocessor class
+2024-08-19/21:54:56		Finding missing values is a success.
+2024-08-19/21:54:56		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/21:54:56		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/21:54:56		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/21:54:56		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/21:54:56		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/21:54:56		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/21:54:56		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/21:54:56		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/21:54:56		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/21:54:56		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/21:54:56		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/21:58:32		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/21:58:32		Successfully loaded input data
+2024-08-19/21:58:32		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/21:58:32		Replaced ? in data with Nan
+2024-08-19/21:58:32		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/21:58:32		Entered the remove_columns method of the Preprocessor class
+2024-08-19/21:58:32		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/21:58:32		Entered the is_null_present method of the Preprocessor class
+2024-08-19/21:58:32		Finding missing values is a success.
+2024-08-19/21:58:32		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/21:58:32		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/21:58:32		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/21:58:32		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/21:58:32		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/21:58:32		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/21:58:32		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/21:58:32		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/21:58:32		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/21:58:32		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/21:58:32		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/22:03:42		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/22:03:42		Successfully loaded input data
+2024-08-19/22:03:42		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:03:42		Replaced ? in data with Nan
+2024-08-19/22:03:42		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:03:42		Entered the remove_columns method of the Preprocessor class
+2024-08-19/22:03:42		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/22:03:42		Entered the is_null_present method of the Preprocessor class
+2024-08-19/22:03:42		Finding missing values is a success.
+2024-08-19/22:03:42		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/22:03:42		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/22:03:42		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:03:42		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:03:42		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:03:42		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:03:42		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/22:03:42		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/22:03:42		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/22:03:42		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/22:03:42		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/22:07:53		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/22:07:53		Successfully loaded input data
+2024-08-19/22:07:53		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:07:53		Replaced ? in data with Nan
+2024-08-19/22:07:53		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:07:53		Entered the remove_columns method of the Preprocessor class
+2024-08-19/22:07:53		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/22:07:53		Entered the is_null_present method of the Preprocessor class
+2024-08-19/22:07:53		Finding missing values is a success.
+2024-08-19/22:07:53		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/22:07:53		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/22:07:53		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:07:53		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:07:53		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:07:53		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:07:53		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/22:07:53		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/22:07:53		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/22:07:53		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/22:07:53		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/22:16:58		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/22:16:58		Successfully loaded input data
+2024-08-19/22:16:58		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:16:58		Replaced ? in data with Nan
+2024-08-19/22:16:58		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:16:58		Entered the remove_columns method of the Preprocessor class
+2024-08-19/22:16:58		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/22:16:58		Entered the is_null_present method of the Preprocessor class
+2024-08-19/22:16:58		Finding missing values is a success.
+2024-08-19/22:16:58		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/22:16:58		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/22:16:58		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:16:58		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:16:58		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:16:58		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:16:58		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/22:16:58		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/22:16:58		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/22:16:58		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/22:16:58		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/22:17:45		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/22:17:45		Successfully loaded input data
+2024-08-19/22:17:45		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:17:45		Replaced ? in data with Nan
+2024-08-19/22:17:45		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:17:45		Entered the remove_columns method of the Preprocessor class
+2024-08-19/22:17:45		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/22:17:45		Entered the is_null_present method of the Preprocessor class
+2024-08-19/22:17:45		Finding missing values is a success.
+2024-08-19/22:17:45		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/22:17:45		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/22:17:45		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:17:45		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:17:45		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:17:45		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:17:45		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/22:17:45		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/22:17:45		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/22:17:45		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/22:17:45		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/22:18:01		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/22:18:01		Successfully loaded input data
+2024-08-19/22:18:01		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:18:01		Replaced ? in data with Nan
+2024-08-19/22:18:01		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:18:01		Entered the remove_columns method of the Preprocessor class
+2024-08-19/22:18:01		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/22:18:01		Entered the is_null_present method of the Preprocessor class
+2024-08-19/22:18:01		Finding missing values is a success.
+2024-08-19/22:18:01		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/22:18:01		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/22:18:01		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:18:01		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:18:01		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:18:01		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:18:01		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/22:18:01		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/22:18:01		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/22:18:01		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/22:18:01		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/22:20:34		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/22:20:34		Successfully loaded input data
+2024-08-19/22:20:34		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:20:34		Replaced ? in data with Nan
+2024-08-19/22:20:34		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:20:34		Entered the remove_columns method of the Preprocessor class
+2024-08-19/22:20:34		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/22:20:34		Entered the is_null_present method of the Preprocessor class
+2024-08-19/22:20:34		Finding missing values is a success.
+2024-08-19/22:20:34		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/22:20:34		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/22:20:34		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:20:34		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:20:34		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:20:34		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:20:34		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/22:20:34		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/22:20:34		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/22:20:34		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/22:20:34		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/22:23:09		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/22:23:09		Successfully loaded input data
+2024-08-19/22:23:09		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:23:09		Replaced ? in data with Nan
+2024-08-19/22:23:09		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:23:09		Entered the remove_columns method of the Preprocessor class
+2024-08-19/22:23:09		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/22:23:09		Entered the is_null_present method of the Preprocessor class
+2024-08-19/22:23:09		Finding missing values is a success.
+2024-08-19/22:23:09		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/22:23:09		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/22:23:09		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:23:09		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:23:09		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:23:09		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:23:09		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/22:23:09		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/22:23:09		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/22:23:09		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/22:23:09		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/22:25:25		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/22:25:25		Successfully loaded input data
+2024-08-19/22:25:25		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:25:25		Replaced ? in data with Nan
+2024-08-19/22:25:25		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:25:25		Entered the remove_columns method of the Preprocessor class
+2024-08-19/22:25:25		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/22:25:25		Entered the is_null_present method of the Preprocessor class
+2024-08-19/22:25:25		Finding missing values is a success.
+2024-08-19/22:25:25		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/22:25:25		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/22:25:25		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:25:25		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:25:25		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:25:25		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:25:25		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/22:25:25		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/22:25:25		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/22:25:25		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/22:25:25		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/22:25:50		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/22:25:50		Successfully loaded input data
+2024-08-19/22:25:50		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:25:50		Replaced ? in data with Nan
+2024-08-19/22:25:50		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:25:50		Entered the remove_columns method of the Preprocessor class
+2024-08-19/22:25:50		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/22:25:50		Entered the is_null_present method of the Preprocessor class
+2024-08-19/22:25:50		Finding missing values is a success.
+2024-08-19/22:25:50		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/22:25:50		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/22:25:50		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:25:50		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:25:50		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:25:50		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:25:50		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/22:25:50		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/22:25:50		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/22:25:50		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/22:25:50		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/22:28:53		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/22:28:53		Successfully loaded input data
+2024-08-19/22:28:53		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:28:53		Replaced ? in data with Nan
+2024-08-19/22:28:53		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:28:53		Entered the remove_columns method of the Preprocessor class
+2024-08-19/22:28:53		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/22:28:53		Entered the is_null_present method of the Preprocessor class
+2024-08-19/22:28:53		Finding missing values is a success.
+2024-08-19/22:28:53		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/22:28:53		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/22:28:53		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:28:53		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:28:53		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:28:53		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:28:53		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/22:28:53		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/22:28:53		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/22:28:53		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/22:28:53		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/22:32:44		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/22:32:44		Successfully loaded input data
+2024-08-19/22:32:45		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:32:45		Replaced ? in data with Nan
+2024-08-19/22:32:45		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:32:45		Entered the remove_columns method of the Preprocessor class
+2024-08-19/22:32:45		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/22:32:45		Entered the is_null_present method of the Preprocessor class
+2024-08-19/22:32:45		Finding missing values is a success.
+2024-08-19/22:32:45		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/22:32:45		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/22:32:45		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:32:45		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:32:45		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:32:45		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:32:45		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/22:32:45		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/22:32:45		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/22:32:45		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/22:32:45		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/22:33:39		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/22:33:39		Successfully loaded input data
+2024-08-19/22:33:39		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:33:39		Replaced ? in data with Nan
+2024-08-19/22:33:39		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:33:39		Entered the remove_columns method of the Preprocessor class
+2024-08-19/22:33:39		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/22:33:39		Entered the is_null_present method of the Preprocessor class
+2024-08-19/22:33:39		Finding missing values is a success.
+2024-08-19/22:33:39		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/22:33:39		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/22:33:39		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:33:39		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:33:39		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:33:39		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:33:39		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/22:33:39		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/22:33:39		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/22:33:39		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/22:33:39		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/22:34:22		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/22:34:22		Successfully loaded input data
+2024-08-19/22:34:22		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:34:22		Replaced ? in data with Nan
+2024-08-19/22:34:22		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:34:22		Entered the remove_columns method of the Preprocessor class
+2024-08-19/22:34:22		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/22:34:22		Entered the is_null_present method of the Preprocessor class
+2024-08-19/22:34:22		Finding missing values is a success.
+2024-08-19/22:34:22		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/22:34:22		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/22:34:22		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:34:22		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:34:22		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:34:22		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:34:22		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/22:34:22		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/22:34:22		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/22:34:22		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/22:34:22		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-19/22:35:04		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-19/22:35:04		Successfully loaded input data
+2024-08-19/22:35:04		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:35:04		Replaced ? in data with Nan
+2024-08-19/22:35:04		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:35:04		Entered the remove_columns method of the Preprocessor class
+2024-08-19/22:35:04		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/22:35:04		Entered the is_null_present method of the Preprocessor class
+2024-08-19/22:35:04		Finding missing values is a success.
+2024-08-19/22:35:04		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/22:35:04		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/22:35:04		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:35:04		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:35:04		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:35:04		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:35:04		Entered the separate_label_feature method of the Preprocessor class
+2024-08-19/22:35:04		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-19/22:35:04		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/22:35:04		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-19/22:35:04		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-20/13:06:16		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-20/13:06:16		Exception occurred while loading data: No columns to parse from file
+2024-08-20/13:06:16		Exception in preprocess_data
+2024-08-20/13:06:16		Method failed. Exited the preprocess_data method in Preprocessor Class
+2024-08-20/13:08:21		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-20/13:08:21		Exception occurred while loading data: No columns to parse from file
+2024-08-20/13:08:21		Exception in preprocess_data
+2024-08-20/13:08:21		Method failed. Exited the preprocess_data method in Preprocessor Class
+2024-08-20/13:10:39		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-20/13:10:39		Successfully loaded input data
+2024-08-20/13:10:39		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-20/13:10:39		Replaced ? in data with Nan
+2024-08-20/13:10:39		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-20/13:10:39		Entered the remove_columns method of the Preprocessor class
+2024-08-20/13:10:39		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-20/13:10:39		Entered the is_null_present method of the Preprocessor class
+2024-08-20/13:10:39		Finding missing values is a success.
+2024-08-20/13:10:39		Entered the impute_missing_values method of the Preprocessor class
+2024-08-20/13:10:39		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-20/13:10:39		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-20/13:10:39		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-20/13:10:39		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-20/13:10:39		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-20/13:10:39		Entered the separate_label_feature method of the Preprocessor class
+2024-08-20/13:10:39		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-20/13:10:39		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-20/13:10:39		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-20/13:10:39		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 48) and layes in y with shape (1000,)
+2024-08-20/13:11:37		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-20/13:11:37		Successfully loaded input data
+2024-08-20/13:11:37		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-20/13:11:37		Replaced ? in data with Nan
+2024-08-20/13:11:37		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-20/13:11:37		Entered the remove_columns method of the Preprocessor class
+2024-08-20/13:11:37		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-20/13:11:37		Entered the is_null_present method of the Preprocessor class
+2024-08-20/13:11:37		Finding missing values is a success.
+2024-08-20/13:11:37		Entered the impute_missing_values method of the Preprocessor class
+2024-08-20/13:11:37		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-20/13:11:37		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-20/13:11:37		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-20/13:11:37		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-20/13:11:37		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-20/13:11:37		Entered the separate_label_feature method of the Preprocessor class
+2024-08-20/13:11:37		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-20/13:11:37		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-20/13:11:37		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-20/13:11:37		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 48) and layes in y with shape (1000,)
+2024-08-20/13:22:40		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-20/13:22:40		Successfully loaded input data
+2024-08-20/13:22:40		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-20/13:22:40		Replaced ? in data with Nan
+2024-08-20/13:22:40		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-20/13:22:40		Entered the remove_columns method of the Preprocessor class
+2024-08-20/13:22:40		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-20/13:22:40		Entered the is_null_present method of the Preprocessor class
+2024-08-20/13:22:40		Finding missing values is a success.
+2024-08-20/13:22:40		Entered the impute_missing_values method of the Preprocessor class
+2024-08-20/13:22:40		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-20/13:22:40		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-20/13:22:40		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-20/13:22:40		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-20/13:22:40		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-20/13:22:40		Entered the separate_label_feature method of the Preprocessor class
+2024-08-20/13:22:40		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-20/13:22:40		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-20/13:22:40		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-20/13:22:40		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)
+2024-08-20/13:22:45		Entered the preprocess_data Method of the Preprocessor class 
+2024-08-20/13:22:45		Successfully loaded input data
+2024-08-20/13:22:45		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-20/13:22:45		Replaced ? in data with Nan
+2024-08-20/13:22:45		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-20/13:22:45		Entered the remove_columns method of the Preprocessor class
+2024-08-20/13:22:45		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-20/13:22:45		Entered the is_null_present method of the Preprocessor class
+2024-08-20/13:22:45		Finding missing values is a success.
+2024-08-20/13:22:45		Entered the impute_missing_values method of the Preprocessor class
+2024-08-20/13:22:46		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-20/13:22:46		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-20/13:22:46		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-20/13:22:46		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-20/13:22:46		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-20/13:22:46		Entered the separate_label_feature method of the Preprocessor class
+2024-08-20/13:22:46		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-08-20/13:22:46		Entered the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-20/13:22:46		Dataset balancing successful. Exited the handle_imbalanced_dataset method of the Preprocessor class
+2024-08-20/13:22:46		Sucessfully completed the data preprocessing and returned independent variables in dataframe X with shape (1506, 47) and layes in y with shape (1000,)

@@ -1,0 +1,6 @@
+2024-08-18/12:55:10		Entered the elbow_plot method of the KMeansClustering class
+2024-08-18/12:55:11		WCSS values: [90253771.1558832, 33087532.70665706, 17915268.516416363, 10896373.561156007, 7580184.658176802, 5287194.883553685, 3745586.291565302, 2973182.16392932, 2413695.720056183, 1962268.9620510829]
+2024-08-18/12:55:11		The optimum number of clusters is: 3 . Exited the elbow_plot method of the KMeansClustering class
+2024-08-18/12:55:11		Entered the create_clusters method of the KMeansClustering class
+2024-08-18/12:55:11		succesfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+2024-08-18/12:55:11		Completed Clustering and exicted run_clustering

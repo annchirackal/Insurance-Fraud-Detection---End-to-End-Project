@@ -1,0 +1,738 @@
+2024-08-19/20:12:18		Entered the preprocessor training class 
+2024-08-19/20:13:38		Entered the preprocessor training class 
+2024-08-19/20:13:51		Entered the preprocessor training class 
+2024-08-19/20:14:35		Entered the preprocessor training class 
+2024-08-19/20:14:35		Exception in prediction data preprocessing name 'raining_data' is not defined
+2024-08-19/20:15:23		Entered the preprocessor training class 
+2024-08-19/20:15:23		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-19/20:15:23		Sucessfully exited ensure_matching_columns method of  preprocessor training class 
+2024-08-19/20:15:23		Exception in prediction data preprocessing name 'log_file' is not defined
+2024-08-19/20:17:03		Entered the preprocessor training class 
+2024-08-19/20:17:03		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-19/20:17:03		Sucessfully exited ensure_matching_columns method of  preprocessor training class 
+2024-08-19/20:17:03		Exception in prediction data preprocessing 'prediction_Preprocessor' object has no attribute 'log_file'
+2024-08-19/20:18:26		Entered the preprocessor training class 
+2024-08-19/20:18:26		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-19/20:18:26		Sucessfully exited ensure_matching_columns method of  preprocessor training class 
+2024-08-19/20:18:26		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/20:18:26		Replaced ? in data with Nan
+2024-08-19/20:18:26		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/20:18:26		Entered the remove_columns method of the Preprocessor class
+2024-08-19/20:18:26		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/20:18:26		Exception in prediction data preprocessing 'prediction_Preprocessor' object has no attribute 'is_null_present'
+2024-08-19/20:19:29		Entered the preprocessor training class 
+2024-08-19/20:19:29		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-19/20:19:29		Sucessfully exited ensure_matching_columns method of  preprocessor training class 
+2024-08-19/20:19:29		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/20:19:29		Replaced ? in data with Nan
+2024-08-19/20:19:29		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/20:19:29		Entered the remove_columns method of the Preprocessor class
+2024-08-19/20:19:29		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/20:19:29		Exception in prediction data preprocessing local variable 'df' referenced before assignment
+2024-08-19/20:20:35		Entered the preprocessor training class 
+2024-08-19/20:20:35		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-19/20:20:35		Sucessfully exited ensure_matching_columns method of  preprocessor training class 
+2024-08-19/20:20:35		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/20:20:35		Replaced ? in data with Nan
+2024-08-19/20:20:35		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/20:20:35		Entered the remove_columns method of the Preprocessor class
+2024-08-19/20:20:35		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/20:20:35		Entered the is_null_present method of the Preprocessor class
+2024-08-19/20:20:35		Finding missing values is a success.
+2024-08-19/20:20:35		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/20:20:35		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/20:20:35		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/20:20:35		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/20:20:35		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/20:20:35		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/20:21:13		Entered the preprocessor training class 
+2024-08-19/20:21:13		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-19/20:21:13		Sucessfully exited ensure_matching_columns method of  preprocessor training class 
+2024-08-19/20:21:13		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/20:21:13		Replaced ? in data with Nan
+2024-08-19/20:21:13		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/20:21:13		Entered the remove_columns method of the Preprocessor class
+2024-08-19/20:21:13		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/20:21:13		Entered the is_null_present method of the Preprocessor class
+2024-08-19/20:21:13		Finding missing values is a success.
+2024-08-19/20:21:13		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/20:21:13		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/20:21:13		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/20:21:13		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/20:21:13		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/20:21:13		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/20:21:30		Entered the preprocessor training class 
+2024-08-19/20:21:30		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-19/20:21:30		Sucessfully exited ensure_matching_columns method of  preprocessor training class 
+2024-08-19/20:21:30		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/20:21:30		Replaced ? in data with Nan
+2024-08-19/20:21:30		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/20:21:30		Entered the remove_columns method of the Preprocessor class
+2024-08-19/20:21:30		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/20:21:30		Entered the is_null_present method of the Preprocessor class
+2024-08-19/20:21:30		Finding missing values is a success.
+2024-08-19/20:21:30		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/20:21:30		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/20:21:30		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/20:21:30		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/20:21:30		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/20:21:30		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/21:31:09		Entered the preprocessor training class 
+2024-08-19/21:31:09		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-19/21:31:09		Sucessfully exited ensure_matching_columns method of  preprocessor training class 
+2024-08-19/21:31:09		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/21:31:09		Replaced ? in data with Nan
+2024-08-19/21:31:09		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/21:31:09		Entered the remove_columns method of the Preprocessor class
+2024-08-19/21:31:09		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/21:31:09		Entered the is_null_present method of the Preprocessor class
+2024-08-19/21:31:09		Finding missing values is a success.
+2024-08-19/21:31:09		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/21:31:09		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/21:31:09		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/21:31:09		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/21:31:09		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/21:31:09		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/21:31:53		Entered the preprocessor training class 
+2024-08-19/21:31:53		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-19/21:31:53		Sucessfully exited ensure_matching_columns method of  preprocessor training class 
+2024-08-19/21:31:53		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/21:31:53		Replaced ? in data with Nan
+2024-08-19/21:31:53		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/21:31:53		Entered the remove_columns method of the Preprocessor class
+2024-08-19/21:31:53		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/21:31:53		Entered the is_null_present method of the Preprocessor class
+2024-08-19/21:31:53		Finding missing values is a success.
+2024-08-19/21:31:53		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/21:31:53		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/21:31:53		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/21:31:53		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/21:31:53		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/21:31:53		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/21:31:53		Entered the load_model method of the File_Operation class
+2024-08-19/21:31:53		Model File Insutance_Fraud_Detection_Model loaded. Exited the load_model method of the Model_Finder class
+2024-08-19/21:37:04		Entered the preprocessor training class 
+2024-08-19/21:37:04		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-19/21:37:04		Sucessfully exited ensure_matching_columns method of  preprocessor training class 
+2024-08-19/21:37:04		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/21:37:04		Replaced ? in data with Nan
+2024-08-19/21:37:04		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/21:37:04		Entered the remove_columns method of the Preprocessor class
+2024-08-19/21:37:04		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/21:37:04		Entered the is_null_present method of the Preprocessor class
+2024-08-19/21:37:04		Finding missing values is a success.
+2024-08-19/21:37:04		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/21:37:04		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/21:37:04		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/21:37:04		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/21:37:04		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/21:37:04		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/21:37:04		Entered the load_model method of the File_Operation class
+2024-08-19/21:37:04		Model File Insutance_Fraud_Detection_Model loaded. Exited the load_model method of the Model_Finder class
+2024-08-19/21:37:04		Entered the predict_results method of  preprocessor training class 
+2024-08-19/21:37:04		Exception in predict_results methodThe feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- fraud_reported
+Feature names seen at fit time, yet now missing:
+- authorities_contacted_Fire
+- authorities_contacted_Missing
+- authorities_contacted_Other
+- incident_type_Parked Car
+- insured_occupation_armed-forces
+- ...
+
+2024-08-19/21:40:51		Entered the preprocessor training class 
+2024-08-19/21:40:51		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-19/21:40:51		Sucessfully exited ensure_matching_columns method of  preprocessor training class 
+2024-08-19/21:40:51		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/21:40:51		Replaced ? in data with Nan
+2024-08-19/21:40:51		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/21:40:51		Entered the remove_columns method of the Preprocessor class
+2024-08-19/21:40:51		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/21:40:51		Entered the is_null_present method of the Preprocessor class
+2024-08-19/21:40:51		Finding missing values is a success.
+2024-08-19/21:40:51		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/21:40:51		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/21:40:51		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/21:40:51		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/21:40:51		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/21:40:51		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/21:40:51		Entered the load_model method of the File_Operation class
+2024-08-19/21:40:51		Model File Insutance_Fraud_Detection_Model loaded. Exited the load_model method of the Model_Finder class
+2024-08-19/21:40:51		Entered the predict_results method of  preprocessor training class 
+2024-08-19/21:40:51		Exception in predict_results methodThe feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- fraud_reported
+Feature names seen at fit time, yet now missing:
+- authorities_contacted_Fire
+- authorities_contacted_Missing
+- authorities_contacted_Other
+- incident_type_Parked Car
+- insured_occupation_armed-forces
+- ...
+
+2024-08-19/21:43:27		Entered the preprocessor training class 
+2024-08-19/21:43:27		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-19/21:43:27		Sucessfully exited ensure_matching_columns method of  preprocessor training class 
+2024-08-19/21:43:27		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/21:43:27		Replaced ? in data with Nan
+2024-08-19/21:43:27		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/21:43:27		Entered the remove_columns method of the Preprocessor class
+2024-08-19/21:43:27		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/21:43:27		Entered the is_null_present method of the Preprocessor class
+2024-08-19/21:43:27		Finding missing values is a success.
+2024-08-19/21:43:27		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/21:43:27		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/21:43:27		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/21:43:27		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/21:43:27		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/21:43:27		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/21:43:27		Entered the load_model method of the File_Operation class
+2024-08-19/21:43:27		Model File Insutance_Fraud_Detection_Model loaded. Exited the load_model method of the Model_Finder class
+2024-08-19/21:43:27		Entered the predict_results method of  preprocessor training class 
+2024-08-19/21:43:27		Exception in predict_results methodThe feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- fraud_reported
+Feature names seen at fit time, yet now missing:
+- authorities_contacted_Fire
+- authorities_contacted_Missing
+- authorities_contacted_Other
+- incident_type_Parked Car
+- insured_occupation_armed-forces
+- ...
+
+2024-08-19/21:43:30		Entered the preprocessor training class 
+2024-08-19/21:43:30		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-19/21:43:30		Sucessfully exited ensure_matching_columns method of  preprocessor training class 
+2024-08-19/21:43:30		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/21:43:30		Replaced ? in data with Nan
+2024-08-19/21:43:30		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/21:43:30		Entered the remove_columns method of the Preprocessor class
+2024-08-19/21:43:30		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/21:43:30		Entered the is_null_present method of the Preprocessor class
+2024-08-19/21:43:30		Finding missing values is a success.
+2024-08-19/21:43:30		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/21:43:30		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/21:43:30		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/21:43:30		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/21:43:30		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/21:43:30		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/21:43:30		Entered the load_model method of the File_Operation class
+2024-08-19/21:43:30		Model File Insutance_Fraud_Detection_Model loaded. Exited the load_model method of the Model_Finder class
+2024-08-19/21:43:30		Entered the predict_results method of  preprocessor training class 
+2024-08-19/21:43:30		Exception in predict_results methodThe feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- fraud_reported
+Feature names seen at fit time, yet now missing:
+- authorities_contacted_Fire
+- authorities_contacted_Missing
+- authorities_contacted_Other
+- incident_type_Parked Car
+- insured_occupation_armed-forces
+- ...
+
+2024-08-19/21:54:56		Entered the preprocessor training class 
+2024-08-19/21:54:56		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-19/21:54:56		Sucessfully exited ensure_matching_columns method of  preprocessor training class 
+2024-08-19/21:54:56		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/21:54:56		Replaced ? in data with Nan
+2024-08-19/21:54:56		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/21:54:56		Entered the remove_columns method of the Preprocessor class
+2024-08-19/21:54:56		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/21:54:56		Entered the is_null_present method of the Preprocessor class
+2024-08-19/21:54:56		Finding missing values is a success.
+2024-08-19/21:54:56		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/21:54:56		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/21:54:56		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/21:54:56		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/21:54:56		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/21:54:56		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/21:54:56		Entered the load_model method of the File_Operation class
+2024-08-19/21:54:56		Model File Insutance_Fraud_Detection_Model loaded. Exited the load_model method of the Model_Finder class
+2024-08-19/21:54:56		Entered the predict_results method of  preprocessor training class 
+2024-08-19/21:54:56		Entered the add_features method of  preprocessor training class 
+2024-08-19/21:54:56		 Sucessfully predicted results 
+2024-08-19/21:58:32		Entered the preprocessor training class 
+2024-08-19/21:58:32		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-19/21:58:32		Sucessfully exited ensure_matching_columns method of  preprocessor training class 
+2024-08-19/21:58:32		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/21:58:32		Replaced ? in data with Nan
+2024-08-19/21:58:32		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/21:58:32		Entered the remove_columns method of the Preprocessor class
+2024-08-19/21:58:32		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/21:58:32		Entered the is_null_present method of the Preprocessor class
+2024-08-19/21:58:32		Finding missing values is a success.
+2024-08-19/21:58:32		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/21:58:32		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/21:58:32		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/21:58:32		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/21:58:32		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/21:58:32		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/21:58:32		Entered the load_model method of the File_Operation class
+2024-08-19/21:58:32		Model File Insutance_Fraud_Detection_Model loaded. Exited the load_model method of the Model_Finder class
+2024-08-19/21:58:32		Entered the predict_results method of  preprocessor training class 
+2024-08-19/21:58:32		Entered the add_features method of  preprocessor training class 
+2024-08-19/21:58:32		 Sucessfully predicted results 
+2024-08-19/22:03:42		Entered the preprocessor training class 
+2024-08-19/22:03:42		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-19/22:03:42		Sucessfully exited ensure_matching_columns method of  preprocessor training class 
+2024-08-19/22:03:42		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:03:42		Replaced ? in data with Nan
+2024-08-19/22:03:42		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:03:42		Entered the remove_columns method of the Preprocessor class
+2024-08-19/22:03:42		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/22:03:42		Entered the is_null_present method of the Preprocessor class
+2024-08-19/22:03:42		Finding missing values is a success.
+2024-08-19/22:03:42		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/22:03:42		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/22:03:42		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:03:42		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:03:42		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:03:42		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:03:42		Entered the load_model method of the File_Operation class
+2024-08-19/22:03:42		Model File Insutance_Fraud_Detection_Model loaded. Exited the load_model method of the Model_Finder class
+2024-08-19/22:03:42		Entered the predict_results method of  preprocessor training class 
+2024-08-19/22:03:42		Entered the add_features method of  preprocessor training class 
+2024-08-19/22:03:42		 Sucessfully predicted results 
+2024-08-19/22:07:53		Entered the preprocessor training class 
+2024-08-19/22:07:53		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-19/22:07:53		Sucessfully exited ensure_matching_columns method of  preprocessor training class 
+2024-08-19/22:07:53		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:07:53		Replaced ? in data with Nan
+2024-08-19/22:07:53		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:07:53		Entered the remove_columns method of the Preprocessor class
+2024-08-19/22:07:53		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/22:07:53		Entered the is_null_present method of the Preprocessor class
+2024-08-19/22:07:53		Finding missing values is a success.
+2024-08-19/22:07:53		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/22:07:53		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/22:07:53		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:07:53		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:07:53		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:07:53		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:07:53		Entered the load_model method of the File_Operation class
+2024-08-19/22:07:53		Model File Insutance_Fraud_Detection_Model loaded. Exited the load_model method of the Model_Finder class
+2024-08-19/22:07:53		Entered the predict_results method of  preprocessor training class 
+2024-08-19/22:07:53		Entered the add_features method of  preprocessor training class 
+2024-08-19/22:07:53		 Sucessfully predicted results 
+2024-08-19/22:16:58		Entered the preprocessor training class 
+2024-08-19/22:16:58		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-19/22:16:58		Sucessfully exited ensure_matching_columns method of  preprocessor training class 
+2024-08-19/22:16:58		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:16:58		Replaced ? in data with Nan
+2024-08-19/22:16:58		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:16:58		Entered the remove_columns method of the Preprocessor class
+2024-08-19/22:16:58		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/22:16:58		Entered the is_null_present method of the Preprocessor class
+2024-08-19/22:16:58		Finding missing values is a success.
+2024-08-19/22:16:58		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/22:16:58		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/22:16:58		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:16:58		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:16:58		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:16:58		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:16:58		Entered the load_model method of the File_Operation class
+2024-08-19/22:16:58		Model File Insutance_Fraud_Detection_Model loaded. Exited the load_model method of the Model_Finder class
+2024-08-19/22:16:58		Entered the predict_results method of  preprocessor training class 
+2024-08-19/22:16:58		Entered the add_features method of  preprocessor training class 
+2024-08-19/22:16:58		 Sucessfully predicted results 
+2024-08-19/22:17:45		Entered the preprocessor training class 
+2024-08-19/22:17:45		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-19/22:17:45		Sucessfully exited ensure_matching_columns method of  preprocessor training class 
+2024-08-19/22:17:45		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:17:45		Replaced ? in data with Nan
+2024-08-19/22:17:45		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:17:45		Entered the remove_columns method of the Preprocessor class
+2024-08-19/22:17:45		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/22:17:45		Entered the is_null_present method of the Preprocessor class
+2024-08-19/22:17:45		Finding missing values is a success.
+2024-08-19/22:17:45		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/22:17:45		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/22:17:45		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:17:45		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:17:45		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:17:45		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:17:45		Entered the load_model method of the File_Operation class
+2024-08-19/22:17:45		Model File Insutance_Fraud_Detection_Model loaded. Exited the load_model method of the Model_Finder class
+2024-08-19/22:17:45		Entered the predict_results method of  preprocessor training class 
+2024-08-19/22:17:45		Entered the add_features method of  preprocessor training class 
+2024-08-19/22:17:45		 Sucessfully predicted results 
+2024-08-19/22:18:01		Entered the preprocessor training class 
+2024-08-19/22:18:01		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-19/22:18:01		Sucessfully exited ensure_matching_columns method of  preprocessor training class 
+2024-08-19/22:18:01		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:18:01		Replaced ? in data with Nan
+2024-08-19/22:18:01		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:18:01		Entered the remove_columns method of the Preprocessor class
+2024-08-19/22:18:01		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/22:18:01		Entered the is_null_present method of the Preprocessor class
+2024-08-19/22:18:01		Finding missing values is a success.
+2024-08-19/22:18:01		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/22:18:01		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/22:18:01		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:18:01		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:18:01		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:18:01		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:18:01		Entered the load_model method of the File_Operation class
+2024-08-19/22:18:01		Model File Insutance_Fraud_Detection_Model loaded. Exited the load_model method of the Model_Finder class
+2024-08-19/22:18:01		Entered the predict_results method of  preprocessor training class 
+2024-08-19/22:18:01		Entered the add_features method of  preprocessor training class 
+2024-08-19/22:18:01		 Sucessfully predicted results 
+2024-08-19/22:20:34		Entered the preprocessor training class 
+2024-08-19/22:20:34		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-19/22:20:34		Sucessfully exited ensure_matching_columns method of  preprocessor training class 
+2024-08-19/22:20:34		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:20:34		Replaced ? in data with Nan
+2024-08-19/22:20:34		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:20:34		Entered the remove_columns method of the Preprocessor class
+2024-08-19/22:20:34		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/22:20:34		Entered the is_null_present method of the Preprocessor class
+2024-08-19/22:20:34		Finding missing values is a success.
+2024-08-19/22:20:34		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/22:20:34		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/22:20:34		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:20:34		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:20:34		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:20:34		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:20:34		Entered the load_model method of the File_Operation class
+2024-08-19/22:20:34		Model File Insutance_Fraud_Detection_Model loaded. Exited the load_model method of the Model_Finder class
+2024-08-19/22:20:34		Entered the predict_results method of  preprocessor training class 
+2024-08-19/22:20:34		Entered the add_features method of  preprocessor training class 
+2024-08-19/22:20:34		 Sucessfully predicted results 
+2024-08-19/22:23:09		Entered the preprocessor training class 
+2024-08-19/22:23:09		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-19/22:23:09		Sucessfully exited ensure_matching_columns method of  preprocessor training class 
+2024-08-19/22:23:09		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:23:09		Replaced ? in data with Nan
+2024-08-19/22:23:09		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:23:09		Entered the remove_columns method of the Preprocessor class
+2024-08-19/22:23:09		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/22:23:09		Entered the is_null_present method of the Preprocessor class
+2024-08-19/22:23:09		Finding missing values is a success.
+2024-08-19/22:23:09		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/22:23:09		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/22:23:09		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:23:09		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:23:09		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:23:09		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:23:09		Entered the load_model method of the File_Operation class
+2024-08-19/22:23:09		Model File Insutance_Fraud_Detection_Model loaded. Exited the load_model method of the Model_Finder class
+2024-08-19/22:23:09		Entered the predict_results method of  preprocessor training class 
+2024-08-19/22:23:09		Entered the add_features method of  preprocessor training class 
+2024-08-19/22:23:09		 Sucessfully predicted results 
+2024-08-19/22:25:25		Entered the preprocessor training class 
+2024-08-19/22:25:25		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-19/22:25:25		Sucessfully exited ensure_matching_columns method of  preprocessor training class 
+2024-08-19/22:25:25		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:25:25		Replaced ? in data with Nan
+2024-08-19/22:25:25		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:25:25		Entered the remove_columns method of the Preprocessor class
+2024-08-19/22:25:25		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/22:25:25		Entered the is_null_present method of the Preprocessor class
+2024-08-19/22:25:25		Finding missing values is a success.
+2024-08-19/22:25:25		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/22:25:25		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/22:25:25		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:25:25		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:25:25		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:25:25		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:25:25		Entered the load_model method of the File_Operation class
+2024-08-19/22:25:25		Model File Insutance_Fraud_Detection_Model loaded. Exited the load_model method of the Model_Finder class
+2024-08-19/22:25:25		Entered the predict_results method of  preprocessor training class 
+2024-08-19/22:25:25		Entered the add_features method of  preprocessor training class 
+2024-08-19/22:25:25		 Sucessfully predicted results 
+2024-08-19/22:25:50		Entered the preprocessor training class 
+2024-08-19/22:25:50		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-19/22:25:50		Sucessfully exited ensure_matching_columns method of  preprocessor training class 
+2024-08-19/22:25:50		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:25:50		Replaced ? in data with Nan
+2024-08-19/22:25:50		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:25:50		Entered the remove_columns method of the Preprocessor class
+2024-08-19/22:25:50		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/22:25:50		Entered the is_null_present method of the Preprocessor class
+2024-08-19/22:25:50		Finding missing values is a success.
+2024-08-19/22:25:50		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/22:25:50		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/22:25:50		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:25:50		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:25:50		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:25:50		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:25:50		Entered the load_model method of the File_Operation class
+2024-08-19/22:25:50		Model File Insutance_Fraud_Detection_Model loaded. Exited the load_model method of the Model_Finder class
+2024-08-19/22:25:50		Entered the predict_results method of  preprocessor training class 
+2024-08-19/22:25:50		Entered the add_features method of  preprocessor training class 
+2024-08-19/22:25:50		 Sucessfully predicted results 
+2024-08-19/22:28:53		Entered the preprocessor training class 
+2024-08-19/22:28:53		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-19/22:28:53		Sucessfully exited ensure_matching_columns method of  preprocessor training class 
+2024-08-19/22:28:53		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:28:53		Replaced ? in data with Nan
+2024-08-19/22:28:53		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:28:53		Entered the remove_columns method of the Preprocessor class
+2024-08-19/22:28:53		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/22:28:53		Entered the is_null_present method of the Preprocessor class
+2024-08-19/22:28:53		Finding missing values is a success.
+2024-08-19/22:28:53		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/22:28:53		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/22:28:53		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:28:53		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:28:53		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:28:53		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:28:53		Entered the load_model method of the File_Operation class
+2024-08-19/22:28:53		Model File Insutance_Fraud_Detection_Model loaded. Exited the load_model method of the Model_Finder class
+2024-08-19/22:28:53		Entered the predict_results method of  preprocessor training class 
+2024-08-19/22:28:53		Entered the add_features method of  preprocessor training class 
+2024-08-19/22:28:53		 Sucessfully predicted results 
+2024-08-19/22:32:45		Entered the preprocessor training class 
+2024-08-19/22:32:45		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-19/22:32:45		Sucessfully exited ensure_matching_columns method of  preprocessor training class 
+2024-08-19/22:32:45		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:32:45		Replaced ? in data with Nan
+2024-08-19/22:32:45		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:32:45		Entered the remove_columns method of the Preprocessor class
+2024-08-19/22:32:45		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/22:32:45		Entered the is_null_present method of the Preprocessor class
+2024-08-19/22:32:45		Finding missing values is a success.
+2024-08-19/22:32:45		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/22:32:45		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/22:32:45		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:32:45		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:32:45		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:32:45		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:32:45		Entered the load_model method of the File_Operation class
+2024-08-19/22:32:45		Model File Insutance_Fraud_Detection_Model loaded. Exited the load_model method of the Model_Finder class
+2024-08-19/22:33:39		Entered the preprocessor training class 
+2024-08-19/22:33:39		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-19/22:33:39		Sucessfully exited ensure_matching_columns method of  preprocessor training class 
+2024-08-19/22:33:39		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:33:39		Replaced ? in data with Nan
+2024-08-19/22:33:39		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:33:39		Entered the remove_columns method of the Preprocessor class
+2024-08-19/22:33:39		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/22:33:39		Entered the is_null_present method of the Preprocessor class
+2024-08-19/22:33:39		Finding missing values is a success.
+2024-08-19/22:33:39		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/22:33:39		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/22:33:39		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:33:39		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:33:39		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:33:39		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:33:39		Entered the load_model method of the File_Operation class
+2024-08-19/22:33:39		Model File Insutance_Fraud_Detection_Model loaded. Exited the load_model method of the Model_Finder class
+2024-08-19/22:33:39		Entered the predict_results method of  preprocessor training class 
+2024-08-19/22:33:39		Entered the add_features method of  preprocessor training class 
+2024-08-19/22:33:39		 Sucessfully predicted results 
+2024-08-19/22:34:22		Entered the preprocessor training class 
+2024-08-19/22:34:22		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-19/22:34:22		Sucessfully exited ensure_matching_columns method of  preprocessor training class 
+2024-08-19/22:34:22		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:34:22		Replaced ? in data with Nan
+2024-08-19/22:34:22		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:34:22		Entered the remove_columns method of the Preprocessor class
+2024-08-19/22:34:22		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/22:34:22		Entered the is_null_present method of the Preprocessor class
+2024-08-19/22:34:22		Finding missing values is a success.
+2024-08-19/22:34:22		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/22:34:22		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/22:34:22		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:34:22		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:34:22		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:34:22		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:34:22		Entered the load_model method of the File_Operation class
+2024-08-19/22:34:22		Model File Insutance_Fraud_Detection_Model loaded. Exited the load_model method of the Model_Finder class
+2024-08-19/22:34:22		Entered the predict_results method of  preprocessor training class 
+2024-08-19/22:34:22		Entered the add_features method of  preprocessor training class 
+2024-08-19/22:34:22		 Sucessfully predicted results 
+2024-08-19/22:35:04		Entered the preprocessor training class 
+2024-08-19/22:35:04		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-19/22:35:04		Sucessfully exited ensure_matching_columns method of  preprocessor training class 
+2024-08-19/22:35:04		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:35:04		Replaced ? in data with Nan
+2024-08-19/22:35:04		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-19/22:35:04		Entered the remove_columns method of the Preprocessor class
+2024-08-19/22:35:04		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-19/22:35:04		Entered the is_null_present method of the Preprocessor class
+2024-08-19/22:35:04		Finding missing values is a success.
+2024-08-19/22:35:04		Entered the impute_missing_values method of the Preprocessor class
+2024-08-19/22:35:04		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-19/22:35:04		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:35:04		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-19/22:35:04		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:35:04		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-19/22:35:04		Entered the load_model method of the File_Operation class
+2024-08-19/22:35:04		Model File Insutance_Fraud_Detection_Model loaded. Exited the load_model method of the Model_Finder class
+2024-08-19/22:35:04		Entered the predict_results method of  preprocessor training class 
+2024-08-19/22:35:04		Entered the add_features method of  preprocessor training class 
+2024-08-19/22:35:04		 Sucessfully predicted results 
+2024-08-20/13:20:26		Entered the preprocessor training class 
+2024-08-20/13:20:26		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-20/13:20:26		Exception in ensure_matching_columns Missing column in data{'Unnamed: 0'}
+2024-08-20/13:20:26		Exception in prediction data preprocessing 
+2024-08-20/13:27:48		Entered the preprocessor training class 
+2024-08-20/13:27:48		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-20/13:27:48		Sucessfully exited ensure_matching_columns method of  preprocessor training class 
+2024-08-20/13:27:48		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-20/13:27:48		Replaced ? in data with Nan
+2024-08-20/13:27:48		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-20/13:27:48		Entered the remove_columns method of the Preprocessor class
+2024-08-20/13:27:48		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-20/13:27:48		Entered the is_null_present method of the Preprocessor class
+2024-08-20/13:27:48		Finding missing values is a success.
+2024-08-20/13:27:48		Entered the impute_missing_values method of the Preprocessor class
+2024-08-20/13:27:48		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-20/13:27:48		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-20/13:27:48		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-20/13:27:48		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-20/13:27:48		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-20/13:27:48		Entered the load_model method of the File_Operation class
+2024-08-20/13:27:48		Model File Insutance_Fraud_Detection_Model loaded. Exited the load_model method of the Model_Finder class
+2024-08-20/13:27:48		Entered the predict_results method of  preprocessor training class 
+2024-08-20/13:27:48		Entered the add_features method of  preprocessor training class 
+2024-08-20/13:27:48		 Sucessfully predicted results 
+2024-08-20/13:46:56		Entered the preprocessor training class 
+2024-08-20/13:46:56		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-20/13:46:56		Sucessfully exited ensure_matching_columns method of  preprocessor training class 
+2024-08-20/13:46:56		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-20/13:46:56		Replaced ? in data with Nan
+2024-08-20/13:46:56		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-20/13:46:56		Entered the remove_columns method of the Preprocessor class
+2024-08-20/13:46:56		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-20/13:46:56		Entered the is_null_present method of the Preprocessor class
+2024-08-20/13:46:56		Finding missing values is a success.
+2024-08-20/13:46:56		Entered the impute_missing_values method of the Preprocessor class
+2024-08-20/13:46:56		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-20/13:46:56		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-20/13:46:56		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-20/13:46:56		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-20/13:46:56		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-20/13:46:56		Entered the load_model method of the File_Operation class
+2024-08-20/13:46:56		Model File Insutance_Fraud_Detection_Model loaded. Exited the load_model method of the Model_Finder class
+2024-08-20/13:46:56		Entered the predict_results method of  preprocessor training class 
+2024-08-20/13:46:56		Entered the add_features method of  preprocessor training class 
+2024-08-20/13:46:56		 Sucessfully predicted results 
+2024-08-20/14:10:13		Entered the preprocessor training class 
+2024-08-20/14:10:13		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-20/14:10:13		Sucessfully exited ensure_matching_columns method of  preprocessor training class 
+2024-08-20/14:10:13		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-20/14:10:13		Replaced ? in data with Nan
+2024-08-20/14:10:13		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-20/14:10:13		Entered the remove_columns method of the Preprocessor class
+2024-08-20/14:10:13		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-20/14:10:13		Entered the is_null_present method of the Preprocessor class
+2024-08-20/14:10:13		Finding missing values is a success.
+2024-08-20/14:10:13		Entered the impute_missing_values method of the Preprocessor class
+2024-08-20/14:10:13		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-20/14:10:13		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-20/14:10:13		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-20/14:10:13		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-20/14:10:14		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-20/14:10:14		Entered the load_model method of the File_Operation class
+2024-08-20/14:10:14		Model File Insutance_Fraud_Detection_Model loaded. Exited the load_model method of the Model_Finder class
+2024-08-20/14:10:14		Entered the predict_results method of  preprocessor training class 
+2024-08-20/14:10:14		Entered the add_features method of  preprocessor training class 
+2024-08-20/14:10:14		 Sucessfully predicted results 
+2024-08-20/14:16:56		Entered the preprocessor training class 
+2024-08-20/14:16:56		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-20/14:16:56		Sucessfully exited ensure_matching_columns method of  preprocessor training class 
+2024-08-20/14:16:56		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-20/14:16:56		Replaced ? in data with Nan
+2024-08-20/14:16:56		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-20/14:16:56		Entered the remove_columns method of the Preprocessor class
+2024-08-20/14:16:56		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-20/14:16:56		Entered the is_null_present method of the Preprocessor class
+2024-08-20/14:16:56		Finding missing values is a success.
+2024-08-20/14:16:56		Entered the impute_missing_values method of the Preprocessor class
+2024-08-20/14:16:56		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-20/14:16:56		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-20/14:16:56		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-20/14:16:56		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-20/14:16:56		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-20/14:16:56		Entered the load_model method of the File_Operation class
+2024-08-20/14:16:56		Model File Insutance_Fraud_Detection_Model loaded. Exited the load_model method of the Model_Finder class
+2024-08-20/14:16:56		Entered the predict_results method of  preprocessor training class 
+2024-08-20/14:16:56		Entered the add_features method of  preprocessor training class 
+2024-08-20/14:16:56		 Sucessfully predicted results 
+2024-08-20/14:21:37		Entered the preprocessor training class 
+2024-08-20/14:21:37		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-20/14:21:37		Sucessfully exited ensure_matching_columns method of  preprocessor training class 
+2024-08-20/14:21:37		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-20/14:21:37		Replaced ? in data with Nan
+2024-08-20/14:21:37		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-20/14:21:37		Entered the remove_columns method of the Preprocessor class
+2024-08-20/14:21:37		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-20/14:21:37		Entered the is_null_present method of the Preprocessor class
+2024-08-20/14:21:37		Finding missing values is a success.
+2024-08-20/14:21:37		Entered the impute_missing_values method of the Preprocessor class
+2024-08-20/14:21:37		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-20/14:21:37		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-20/14:21:37		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-20/14:21:37		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-20/14:21:37		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-20/14:21:37		Entered the load_model method of the File_Operation class
+2024-08-20/14:21:37		Model File Insutance_Fraud_Detection_Model loaded. Exited the load_model method of the Model_Finder class
+2024-08-20/14:21:37		Entered the predict_results method of  preprocessor training class 
+2024-08-20/14:21:37		Entered the add_features method of  preprocessor training class 
+2024-08-20/14:21:38		 Sucessfully predicted results 
+2024-08-20/14:24:09		Entered the preprocessor training class 
+2024-08-20/14:24:09		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-20/14:24:09		Sucessfully exited ensure_matching_columns method of  preprocessor training class 
+2024-08-20/14:24:09		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-20/14:24:09		Replaced ? in data with Nan
+2024-08-20/14:24:09		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-20/14:24:09		Entered the remove_columns method of the Preprocessor class
+2024-08-20/14:24:09		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-20/14:24:09		Entered the is_null_present method of the Preprocessor class
+2024-08-20/14:24:09		Finding missing values is a success.
+2024-08-20/14:24:09		Entered the impute_missing_values method of the Preprocessor class
+2024-08-20/14:24:09		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-20/14:24:09		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-20/14:24:09		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-20/14:24:09		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-20/14:24:09		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-20/14:24:09		Entered the load_model method of the File_Operation class
+2024-08-20/14:24:09		Model File Insutance_Fraud_Detection_Model loaded. Exited the load_model method of the Model_Finder class
+2024-08-20/14:24:09		Entered the predict_results method of  preprocessor training class 
+2024-08-20/14:24:09		Entered the add_features method of  preprocessor training class 
+2024-08-20/14:24:09		 Sucessfully predicted results 
+2024-08-20/14:25:35		Entered the preprocessor training class 
+2024-08-20/14:25:35		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-20/14:25:35		Sucessfully exited ensure_matching_columns method of  preprocessor training class 
+2024-08-20/14:25:35		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-20/14:25:35		Replaced ? in data with Nan
+2024-08-20/14:25:35		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-20/14:25:35		Entered the remove_columns method of the Preprocessor class
+2024-08-20/14:25:35		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-20/14:25:35		Entered the is_null_present method of the Preprocessor class
+2024-08-20/14:25:35		Finding missing values is a success.
+2024-08-20/14:25:35		Entered the impute_missing_values method of the Preprocessor class
+2024-08-20/14:25:35		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-20/14:25:35		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-20/14:25:35		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-20/14:25:35		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-20/14:25:35		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-20/14:25:35		Entered the load_model method of the File_Operation class
+2024-08-20/14:25:35		Model File Insutance_Fraud_Detection_Model loaded. Exited the load_model method of the Model_Finder class
+2024-08-20/14:25:35		Entered the predict_results method of  preprocessor training class 
+2024-08-20/14:25:35		Entered the add_features method of  preprocessor training class 
+2024-08-20/14:25:35		 Sucessfully predicted results 
+2024-08-20/14:29:27		Entered the preprocessor training class 
+2024-08-20/14:29:27		Entered the ensure_matching_columns method of  preprocessor training class 
+2024-08-20/14:29:27		Sucessfully exited ensure_matching_columns method of  preprocessor training class 
+2024-08-20/14:29:27		Entered the remove_unwanted_spaces method of the Preprocessor class
+2024-08-20/14:29:27		Replaced ? in data with Nan
+2024-08-20/14:29:27		Unwanted spaces removal Successful.Exited the remove_unwanted_spaces method of the Preprocessor class
+2024-08-20/14:29:27		Entered the remove_columns method of the Preprocessor class
+2024-08-20/14:29:27		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-08-20/14:29:27		Entered the is_null_present method of the Preprocessor class
+2024-08-20/14:29:27		Finding missing values is a success.
+2024-08-20/14:29:27		Entered the impute_missing_values method of the Preprocessor class
+2024-08-20/14:29:27		Imputing missing values successful. Exited the impute_missing_values method of the Preprocessor class
+2024-08-20/14:29:27		Entered the scale_numerical_columns method of the Preprocessor class
+2024-08-20/14:29:27		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2024-08-20/14:29:27		Entered the encode_categorical_columns method of the Preprocessor class
+2024-08-20/14:29:27		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2024-08-20/14:29:27		Entered the load_model method of the File_Operation class
+2024-08-20/14:29:27		Model File Insutance_Fraud_Detection_Model loaded. Exited the load_model method of the Model_Finder class
+2024-08-20/14:29:27		Entered the predict_results method of  preprocessor training class 
+2024-08-20/14:29:27		Entered the add_features method of  preprocessor training class 
+2024-08-20/14:29:27		 Sucessfully predicted results 
