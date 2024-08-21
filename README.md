@@ -84,7 +84,7 @@ Whether the claim is fraudulent or not.
 - Scikit-learn
 - XGBoost
 - Install dependencies: pip install -r requirements.txt
-- Run the app: python app.py
+- Run the app: python main.py
 ### Technologies Used:
 - Flask: Used for developing the web application interface.
 - Python: Primary programming language for backend development.
